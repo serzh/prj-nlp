@@ -1,0 +1,162 @@
+,phrase,label
+171,<number> downloads,file
+106,liked post on <post-word>,like
+380,clicked on file <number> times,file
+353,created <number> notes,note
+494,called <first-name>,profile
+237,wrote a post that got <number> replies,post
+527,clicked on an ad <number> times,ad
+185,replied to <mention>,reply
+326,added a note to page with the word <post-word>,note
+172,"bio having ""<post-word>""",profile
+257,wrote a <sentiment> post,post
+16,answered <poll-answer> in a poll,poll
+95,are connected with <social-network>,profile
+235,rated a page at least one time ,rate
+488,took <number> polls,poll
+120,replied to post about <post-word>,reply
+41,wrote <sentiment> post,post
+220,answered <poll-answer> in any poll,poll
+71,phone <phone>,profile
+55,any <sentiment> post,post
+250,a post that was liked <number> times,post
+6,wrote a post about <mention>,post
+336,commented on  <mention>s post,reply
+304,liked a post with the word <post-word>,like
+366,clicks on ads published by <company>,ad
+431,<company> set as company,profile
+173,attended once,event
+177,liked a <sentiment>ly colored sentiment,like
+94,clicked an ad with a word <post-word>,ad
+302,liked a post that contains <post-word>,like
+101,likes <post-word>s,like
+24,rated page <number> or more times,rate
+266,the phone number <phone>,profile
+264,viewed a page with <post-word>,view
+205,at least <number> answer was <poll-answer>,poll
+456,wrote post with <sentiment> sentiment,post
+118,<post-word> in the bio,profile
+329,replied to a post by <mention>,reply
+75,clicked on any ad <number> times,ad
+113,named <first-name>,profile
+236,viewed a page <number> times,view
+392,rated <page-type>s page,rate
+198,downloaded a file <number> times,file
+499,wrote <number> posts,post
+382,<page-type> page views,view
+383,<poll-answer> quick poll answers,poll
+508,viewed page with <post-word>,view
+179,liked a post with a <sentiment> sentiment,like
+258,wrote something <sentiment>,post
+319,participated in a poll <number> times,poll
+455,set position to <position>,profile
+196,"the ""<post-word>"" word in their writings",post
+85,left <number> notes on a page,note
+418,replied to post with <post-word>,reply
+182,attended an event once,event
+155,gave rating to <page-type> pages,rate
+74,n't impressed by the event,profile
+395,<page-type>s page rating,rate
+493,visited page contains <post-word>,view
+219,replied to the post contains <post-word>,reply
+337,commented on <mention>s post,reply
+333,<location> in profile details ,profile
+416,from <location>,profile
+283,last name equals <last-name>,profile
+412,composed a <sentiment> post,post
+103,"""<post-word>"" in description",profile
+398,<page-type> rating,rate
+78,liked <mention> post,like
+35,replied to <sentiment> post,reply
+233,wrote a post mentioning <mention> ,post
+428,clicked on ad with <post-word>,ad
+310,left at least one like on a post with the word <post-word>,like
+133,wrote a note on page with word <post-word>,note
+70,rated page containing <post-word>,rate
+163,location is <location>,profile
+239,wrote a post with <number> comments,post
+153,first name is <first-name>,profile
+0,wrote posts mentioning <mention>,post
+168,clicked <number> times on the ad on the <page-type> page,ad
+491,a post with <number> likes ,post
+351,left <number> notes,note
+128,"replied to the post that contains word <post-word>""",reply
+512,voted <number> times,poll
+434,clicks on ad which mentioned <post-word>,ad
+387,<poll-answer> answer in quick poll,poll
+10,also liked post <number> times,like
+483,participated in a polls <number> times,poll
+59,downloaded <file-name> file,file
+109,<first-name> as first name,profile
+312,liked a post containing the word <post-word>,like
+350,viewed a page with <post-word>,view
+241,bad things to say in a comment ,reply
+410,written <sentiment> sentiment,post
+149,<website> website,profile
+374,viewed <page-type> pages,view
+292,rated a page <number> times,rate
+328,took part in <number> polls,poll
+403,connected <social-network>+,profile
+272,name is <first-name>,profile
+448,view of page which mentioned <post-word>,view
+92,clicked an ad containing <post-word>,ad
+97,"""<post-word>"" in their bio",profile
+151,first name = <first-name>,profile
+108,liked the post <number> times,like
+305,<position> position,profile
+98,liked post about <post-word>,like
+246,<email> email,profile
+461,rated page containing <post-word>,rate
+174,liked a <sentiment> post,like
+400,from <company>,profile
+284,answered <poll-answer> to a poll,poll
+44,wrote a post with <sentiment> sentiment,post
+72,not <enjoyment> the event,profile
+169,<number> downloads,file
+472,participated in poll once,poll
+303,the phone number <phone>,profile
+297,answered <poll-question>?' in a poll,poll
+327,created a note to page containing <post-word>,note
+80,liked post containing word <post-word>,like
+301,phone number equals <phone>,profile
+473,left rating on page with <page-type> type,rate
+290,attendees posted at least one post with <sentiment> sentiment,post
+146,either <position> position,profile
+446,viewed page which contains <post-word>,view
+278,n't use the app,session
+232,rated page with <number> stars,rate
+296,voted on a poll with the question <poll-question>?',poll
+343,voted with <poll-answer> in a poll,poll
+89,clicked on an ad with the word <post-word>,ad
+158,from <location>,profile
+281,surname is <last-name>,profile
+58,phone <phone>,profile
+437,liked post by <mention>,like
+30,<post-word> in bio,profile
+474,voted in poll,poll
+100,"""<post-word>"" in bio",profile
+21,rated page <number> time,rate
+69,downloaded file from <page-type> type page,file
+170,users clicked <number> times ad <page-type> page,ad
+274,used the app <number> times,session
+270,replying to <mention>'s post ,reply
+515,viewed <page-type> page,view
+389,left a note on page with <page-type> type,note
+269,commented estelle jimenez's post,reply
+500,posted <number> messages,post
+150,liked posts about <post-word>,like
+344,answer to a poll equals <poll-answer>,poll
+91,a <social-network> connection,profile
+439,wrote post with <number> replies,post
+152,rated pages with type <page-type>,rate
+320,left a note on a page that contains <post-word>,note
+482,mentioned <mention>,post
+51,rated <page-type> page,rate
+180,"who's bio contains ""<post-word>""",profile
+48,never answered <poll-answer>,poll
+129,"wrote a post containing <post-word>
+",post
+289,responded <poll-answer> to a poll,poll
+211,<website> website,profile
+62,never participated in polls,poll
+136,made <number> likes on <sentiment> posts,like

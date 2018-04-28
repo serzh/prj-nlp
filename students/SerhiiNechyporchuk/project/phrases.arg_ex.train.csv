@@ -1,0 +1,372 @@
+,phrase,label
+127,rated the page <number> times?,rate
+476,attended <event>,event
+478,rated <page-type>,rate
+254,works at abbott laboratories ,profile
+249,biologist,profile
+425,reside in <location>,profile
+379,viewed page with <page-type> type,view
+408,connected <social-network>+ account,profile
+452,work as Affordable Housting Specialist,profile
+203,answered at least <number> polls,poll
+364,posts about <mention>,post
+490,viewed page contains <post-word>,view
+253,posted about <post-word>,post
+191,phone number <phone>,profile
+481,clicked on ad by <company>,ad
+148,make a reply to the post written by <mention>,reply
+318,<first-name> as the first name,profile
+65,liked posts by <mention>,like
+13,liked it <number> times,like
+421,n't like the event,profile
+229, voted <poll-answer>,poll
+215,answered <poll-answer> in poll,poll
+27,rated page <number> times,rate
+413,linked <social-network>+ account,profile
+105,"like posts with ""<post-word>"" in it",like
+12,wrote <mention>s post,post
+83,liked post with word <post-word>,like
+407,<sentiment> post,post
+49,bio has <post-word> in it,profile
+523,left a note on a page <number> times,note
+484,participated in <number> polls,poll
+159,website = <website>,profile
+282,opened the app <number> times,session
+406,<sentiment> sentiment towards event,post
+426,working at <company>,profile
+156,first name was <first-name>,profile
+107,replied to <mention>,reply
+183,liked a post that can be said to be a <sentiment> one,like
+377,downloaded a file <number> times,file
+466,written post which was liked <number> times,post
+352,visited a page that contains <post-word>,view
+295,interacted with an ad <number> time,ad
+276,<last-name> as the last name,profile
+361,choose <poll-answer> answer in poll,poll
+244,<website> as their website,profile
+294,gave a rating to a page <number> times,rate
+230,left a comment for the post with <post-word>,reply
+195,a phone <phone>,profile
+528,bio contains <number>,profile
+202,answered <poll-answer> for a poll,poll
+393,left a note on <page-type>s page,note
+506,voted <number> times,poll
+260,liked a post with the keyword <post-word>,like
+402,left a note about <page-type>,note
+46,clicked on ad from <company>,ad
+359,answered <poll-answer> in quick poll,poll
+252,wrote about <post-word>,post
+28,participated in poll and answered yes,poll
+280,downloaded  <number> files from the app,file
+123,wrote the post about <post-word>,post
+31,n't enjoy event,profile
+401,rated an <page-type>,rate
+188,made reply to <mention>,reply
+430,<number> post likes,like
+206,located in <locatoin>,profile
+438,viewed page with <post-word>,view
+386,viewe sesssion page,view
+404,written <sentiment> posts,post
+417,replied to posts about <post-word>,reply
+57,replied to post with <post-word> in it,reply
+347,profile phone contains <phone>,profile
+287,post has <sentiment> sentiment,post
+307,holds the position of <position>,profile
+184,"wrote a post with ""<post-word>""",post
+255,downloaded a file <number> times,file
+433,<number> likes of posts,like
+263,viewed a page with <post-word> in the content,view
+489,named <first-name>,profile
+261,saw any page <number> times,view
+53,liked <mention> post,like
+96,left commented about <post-word>,reply
+93, left a note with <post-word>,note
+160,attended event <number> times,event
+309,profile details contain the phone number <phone>,profile
+22,answered <poll-answered> in poll,poll
+424,live in <location>,profile
+60,downloaded <file-name> document,file
+142,viewed <number> pages,view
+162,their website is <website>,profile
+492,posted a content with <number> likes,post
+199,answered a poll <poll-answer> <number> times,poll
+453,<position> position,profile
+223,voted <poll-answer>,poll
+15,rated page at least <number> times,rate
+324,left a vote on <number> polls,poll
+193,"post containing ""<post-word>"" word",post
+335,attendees from <location>,profile
+90, commented with a word <post-word>,reply
+242,wrote post that got <number> comments ,post
+362,mentioned <mention> in post,post
+117,liked post <number> times,like
+325,first name equals <first-name>,profile
+11,wrote post with <mention>s mention,post
+513,Google + account,profile
+116,<first-name> as first name,profile
+365,<poll-answer> answers in poll,poll
+348,visited <number> pages,view
+210,attended the event 'Deeply Seals<number><number>,event
+243,<email>,profile
+369,voted <poll-answer> in poll,poll
+394,works ar <company>,profile
+498,<enjoyment> the event,profile
+145,bio containing word <post-word>,profile
+355,connected <social-network>,profile
+192,"post has ""<post-word>""",post
+314,<phone> for the phone number,profile
+462,wrote post with <number> likes,post
+114,the word <post-word> in bio,profile
+519,rated page with more than <number> stars,rate
+144,viewed page <number> times,view
+321,saved a note on page containing the word <post-word>,note
+181,"a ""<post-word>"" in their profile description",profile
+2,clicked on ad with <post-word> in it,ad
+311,<position>s,profile
+422,replied to post with <post-word> in its text,reply
+112,first name <first-name>,profile
+475,voted in <number> poll,poll
+104,liked some post on <post-word>s,like
+34,name <first-name>,profile
+371,choose <poll-answer> in poll,poll
+63,liked post by <mention>,like
+161,participated in event <number> times,event
+334,<location> in profile details,profile
+447,post with <number> comments,post
+154,rated <page-type> pages,rate
+17,downloaded <page-type> type page file,file
+384,<number> file downloads,file
+86,viewed a page with word <post-word>,view
+132,wrote post that contains <post-word>,post
+317,saved a note for a page that contains <post-word>,note
+524,downloaded a file named <file-name>,file
+460,wrote post with  <sentiment> sentiment,post
+225,commented with <post-word> to the post ,reply
+409,post with <sentiment> sentiment,post
+119,first name <first-name>,profile
+209,the attendee is located in <poll-answer>rth Korea,profile
+140,replied to <mention>s post,reply
+147,website named <website>,profile
+443,post containing <number> replies,post
+226,liked message by <mention>,like
+503,rated <page-type> with <number> stars,rate
+208,liked a page <number> time and the page contains <post-word>,rate
+505,rated page contains <post-word>,rate
+391,rated page with <page-type> type,rate
+175,<post-word> in bio,profile
+313,profile details contain <position> position for the position,profile
+451,attended event <number> times,event
+245,rated with <number> stars ,rate
+378,choose <poll-answer> option in quick poll,poll
+84,<number> times left a note on a page,note
+73,rated page with <post-word> in text,rate
+43,participated in poll and answered <poll-answer>,poll
+322,voted on <number> polls,poll
+423,<location> location,profile
+454,<number> event attendances,event
+316,participated in <number> polls,poll
+529,attended <number> events,event
+7,at least <number> likes,like
+435,<number> posts likes,like
+201,downloaded a file <number> times,file
+349,went to <number> events,event
+222,commented to the post about <post-word>,reply
+464,post liked <number> times,post
+40,named <first-name>,profile
+56,<post-word> in their bio,profile
+495,name is <first-name>,profile
+248,converted on the activision <page-type>ed post,ad
+130,replied to post with <post-word> in it,reply
+356,made a download of a file which contains <file-name> in the name,file
+375,answered <poll-answer> in poll,poll
+442,liked <mention>s post,like
+82,replied to post written by Hoe <mention>s,reply
+251,wrote posts that contain the keyword <post-word>,post
+521,opened <page-type> page,view
+259,clicked a sponsored post <number> times,ad
+445,like of <mention>s post,like
+288,liked someone else's post with <sentiment> sentiment,like
+143,replied to post written by <mention>,reply
+1,liked any post <number> times,like
+332,clicked on <number> add,ad
+306,liked a post containing <post-word>,like
+397,note about <page-type>,note
+525,liked a post by Philip,like
+50,participated in no poll,poll
+110,the name <first-name>,profile
+354,downloaded a file with name <file-name>,file
+8,clickd on add that contained <post-word>,ad
+187,"post ""<post-word>""",post
+61,viewed page  <number> times,view
+231,attended Deaply Seals<number><number>,event
+323,<first-name> as first name,profile
+315,first name is <first-name>,profile
+286,liked a post with <sentiment> sentiment,like
+501,clicked on <number> ads,ad
+76,liked post written by <mention>,like
+88,a <social-network> account,profile
+517,content with <number> replies,post
+530,clicked on <number> ads,ad
+54,wrote at least <number> posts,post
+345,viewed <number> pages,view
+32,downloaed a file from <page-type> page,file
+357,linked <social-network> to their profile,profile
+411,n't like the event,profile
+504,clicked on ads <number> times,ad
+121,rated page <number> times,rate
+520,posted a content with <number> comments,post
+79,replied to <mention>s post,reply
+440,viewed page mentioning <post-word>,view
+3,wrote at least one post with mention of <mention>,post
+370,posted about <mention>,post
+419,<location> set as location,profile
+396,note on <page-type>s page,note
+467,rated page mentioning <post-word>,rate
+340,wrote a post with <sentiment> sentiment,post
+372,wrote post with mention of <mention>,post
+45,clicked on ad from <company>,ad
+47,never participated in poll,poll
+463,rating for page about <post-word>,rate
+341,visited a page with type <page-type>,view
+477,answerted <number> poll,poll
+26,got file from <page-type> type page,file
+87,downloaded <number> files,file
+165,all of them from <location>,profile
+526,downloaded <file-name>,file
+124,replied to the post that contains word <post-word>?,reply
+186,also has <phone> as phone,profile
+459,attended even <number> times,event
+267,phone number is <phone>,profile
+415,n't really like the event,profile
+388,<page-type> view,view
+277,<last-name> for the last name,profile
+298,rated <number> pages,rate
+37,downloaded <page-type> file,file
+414,written post with <sentiment> sentiment,post
+518,viewed <page-type>,view
+279,made <number> file downloads,file
+275,downloaded <number> files,file
+480,voted in single poll,poll
+218,liked <mention>s post,like
+522,liked a post by <mention>,like
+194,a reply to a user named <mention>,reply
+81,left a note on page <number> times,note
+256,downloaded something <number> times,file
+4,liked any post <number> or more times,like
+330,<location> as location,profile
+68,liked at least <number> post by <mention>,like
+381,checked <page-type> page,view
+52,replied to <sentiment> sentiment post,reply
+468,rated page with <post-word> word,rate
+502,rated with <number> stars <page-type>s page,rate
+444,view of page with <post-word> in its text,view
+214,viewed at least two pages,view
+441,posts with <number> replies,post
+33,n't enjoy the event,profile
+247,clicked on the activision <page-type>ed post,ad
+131,rated the page <number> times,rate
+511,created a not on page contains <post-word>,note
+268,commented one of <mention>'s posts,reply
+405,n't <enjoyment> the event,profile
+363,clicked on <company> ad,ad
+64,<last-name> as a last name,profile
+429,clicks on ads containing <post-word>,ad
+67,last name <last-name>,profile
+166,clicked <number> times on the ad on <page-type> page,ad
+141,bio contains <post-word>,profile
+217,voted <poll-answer> in any poll,poll
+178,exactly <number> attend,event
+450,wrote post with <number> comments,post
+111,liked the post <number> time,like
+167,no downloads,file
+470,wrote post which was liked <number> times,post
+135,left a note on page containing <post-word>,note
+449,liked post written by <mention>,like
+367,participated in quick poll answering <poll-answer>,poll
+346,attended <number> events,event
+516,rated page with <number> stars,rate
+308,phone number is <phone>,profile
+19,participated in poll answered <poll-answer> to any question,poll
+18,rated any page <number> times,rate
+486,wrote a post about <mention>,post
+126,replied on post containing <post-word>,reply
+20,downloaded a file from page with <page-type> type,file
+164,website set in their profile as <website>,profile
+137,created a post with word <post-word> in text,post
+99,replied to post by <mention>,reply
+390,work at <company>,profile
+458,work at <position> position,profile
+360,wrote post mentioning <mention>,post
+299,clicked an ad <number> time,ad
+23,downloaded a file from <page-type> page,file
+399,works at <company>,profile
+300,<position> in the position field,profile
+204,answered <number> polls,poll
+496,opened page with <post-word>,view
+479,voted in poll once,poll
+265,wrote post that got <number> comments,post
+487,clicked on advertisement by 'Acisi Inc.',ad
+190,reply to <mention>,reply
+342,added a post with <sentiment> sentiment,post
+273,<first-name>,profile
+25,in poll answered <poll-answered>,poll
+36,<first-name>s,profile
+234,work at <company>,profile
+339,viewed a page with <page-type> type,view
+224,liked post written by <mention>,like
+212,viewed a page two times,view
+271,named <first-name>,profile
+29,downloaded any file from <page-type> page,file
+385,participated in poll answering <poll-answer>,poll
+102,replied to <mention>,reply
+238,replied to a post with <sentiment> sentiment,reply
+200,answered <number> polls with <poll-answer>,poll
+77,rated page with word <post-word> in text,rate
+134,liked a <sentiment> post <number> times,like
+115,liked the post <number> times,like
+5,clickd on ad with text <post-word> in it,ad
+465,<sentiment> feelings towards the event,profile
+228,liked  <mention>s message,like
+189,<phone> phone,profile
+509,connected Google +,profile
+457,<sentiment> posts,post
+39,replied to post with <sentiment> sentiment,reply
+157,liked all posts about <post-word>,like
+331,left a comment on a post by <mention>,reply
+125,mentioned <post-word>,post
+427,liked post <number> times,like
+240,commented <sentiment>ly,reply
+471,attended <event>,event
+368,wrote post with <mention>s mention,post
+507,leave a rate on page with <post-word>,rate
+9,clicked on ad about <post-word>,ad
+485,converted on the <company> ad ,profile
+207,rated a page that contains <post-word> at least <number> times,rate
+227,left a reply for the post about <post-word>,reply
+510,took a not on page with <post-word>,note
+66,downloaded a file from page with <page-type> type,file
+197,number is <phone>,profile
+514,post with <number> replies,reply
+38,first name <first-name>,profile
+14,clicked on ad that contains <post-word>,ad
+176,attended before,event
+432,clicked on <post-word> ad,ad
+293,clicked on an ad <number> time,ad
+42,clicked <company> ad,ad
+216,replied to post with <post-word>,reply
+358,clicked on ad by <company>,ad
+221,liked <mention>s content,like
+373,clicked on ad created by <company>,ad
+469,posted something liked <number> times,post
+122,wrote a post that contains <post-word>?,post
+285,created a post with <sentiment> sentiment,poll
+213, <website> as website,profile
+436,clicked on ad containing <post-word>,ad
+139,created a post on page containing <post-word>,post
+138,liked <number> <sentiment> posts,like
+262,wrote something about <post-word>,post
+291,participated in a poll with the question <poll-question>?',poll
+497,posted a message with <number> likes,post
+420,from <location>,profile
+338,from <location>,profile
+376,downloaded file <number> times,file
