@@ -1,372 +1,373 @@
-,phrase,label
-127,rated the page <number> times?,rate
-476,attended <event>,event
-478,rated <page-type>,rate
-254,works at abbott laboratories ,profile
-249,biologist,profile
-425,reside in <location>,profile
-379,viewed page with <page-type> type,view
-408,connected <social-network>+ account,profile
-452,work as Affordable Housting Specialist,profile
-203,answered at least <number> polls,poll
-364,posts about <mention>,post
-490,viewed page contains <post-word>,view
-253,posted about <post-word>,post
-191,phone number <phone>,profile
-481,clicked on ad by <company>,ad
-148,make a reply to the post written by <mention>,reply
-318,<first-name> as the first name,profile
-65,liked posts by <mention>,like
-13,liked it <number> times,like
-421,n't like the event,profile
-229, voted <poll-answer>,poll
-215,answered <poll-answer> in poll,poll
-27,rated page <number> times,rate
-413,linked <social-network>+ account,profile
-105,"like posts with ""<post-word>"" in it",like
-12,wrote <mention>s post,post
-83,liked post with word <post-word>,like
-407,<sentiment> post,post
-49,bio has <post-word> in it,profile
-523,left a note on a page <number> times,note
-484,participated in <number> polls,poll
-159,website = <website>,profile
-282,opened the app <number> times,session
-406,<sentiment> sentiment towards event,post
-426,working at <company>,profile
-156,first name was <first-name>,profile
-107,replied to <mention>,reply
-183,liked a post that can be said to be a <sentiment> one,like
-377,downloaded a file <number> times,file
-466,written post which was liked <number> times,post
-352,visited a page that contains <post-word>,view
-295,interacted with an ad <number> time,ad
-276,<last-name> as the last name,profile
-361,choose <poll-answer> answer in poll,poll
-244,<website> as their website,profile
-294,gave a rating to a page <number> times,rate
-230,left a comment for the post with <post-word>,reply
-195,a phone <phone>,profile
-528,bio contains <number>,profile
-202,answered <poll-answer> for a poll,poll
-393,left a note on <page-type>s page,note
-506,voted <number> times,poll
-260,liked a post with the keyword <post-word>,like
-402,left a note about <page-type>,note
-46,clicked on ad from <company>,ad
-359,answered <poll-answer> in quick poll,poll
-252,wrote about <post-word>,post
-28,participated in poll and answered yes,poll
-280,downloaded  <number> files from the app,file
-123,wrote the post about <post-word>,post
-31,n't enjoy event,profile
-401,rated an <page-type>,rate
-188,made reply to <mention>,reply
-430,<number> post likes,like
-206,located in <locatoin>,profile
-438,viewed page with <post-word>,view
-386,viewe sesssion page,view
-404,written <sentiment> posts,post
-417,replied to posts about <post-word>,reply
-57,replied to post with <post-word> in it,reply
-347,profile phone contains <phone>,profile
-287,post has <sentiment> sentiment,post
-307,holds the position of <position>,profile
-184,"wrote a post with ""<post-word>""",post
-255,downloaded a file <number> times,file
-433,<number> likes of posts,like
-263,viewed a page with <post-word> in the content,view
-489,named <first-name>,profile
-261,saw any page <number> times,view
-53,liked <mention> post,like
-96,left commented about <post-word>,reply
-93, left a note with <post-word>,note
-160,attended event <number> times,event
-309,profile details contain the phone number <phone>,profile
-22,answered <poll-answered> in poll,poll
-424,live in <location>,profile
-60,downloaded <file-name> document,file
-142,viewed <number> pages,view
-162,their website is <website>,profile
-492,posted a content with <number> likes,post
-199,answered a poll <poll-answer> <number> times,poll
-453,<position> position,profile
-223,voted <poll-answer>,poll
-15,rated page at least <number> times,rate
-324,left a vote on <number> polls,poll
-193,"post containing ""<post-word>"" word",post
-335,attendees from <location>,profile
-90, commented with a word <post-word>,reply
-242,wrote post that got <number> comments ,post
-362,mentioned <mention> in post,post
-117,liked post <number> times,like
-325,first name equals <first-name>,profile
-11,wrote post with <mention>s mention,post
-513,Google + account,profile
-116,<first-name> as first name,profile
-365,<poll-answer> answers in poll,poll
-348,visited <number> pages,view
-210,attended the event 'Deeply Seals<number><number>,event
-243,<email>,profile
-369,voted <poll-answer> in poll,poll
-394,works ar <company>,profile
-498,<enjoyment> the event,profile
-145,bio containing word <post-word>,profile
-355,connected <social-network>,profile
-192,"post has ""<post-word>""",post
-314,<phone> for the phone number,profile
-462,wrote post with <number> likes,post
-114,the word <post-word> in bio,profile
-519,rated page with more than <number> stars,rate
-144,viewed page <number> times,view
-321,saved a note on page containing the word <post-word>,note
-181,"a ""<post-word>"" in their profile description",profile
-2,clicked on ad with <post-word> in it,ad
-311,<position>s,profile
-422,replied to post with <post-word> in its text,reply
-112,first name <first-name>,profile
-475,voted in <number> poll,poll
-104,liked some post on <post-word>s,like
-34,name <first-name>,profile
-371,choose <poll-answer> in poll,poll
-63,liked post by <mention>,like
-161,participated in event <number> times,event
-334,<location> in profile details,profile
-447,post with <number> comments,post
-154,rated <page-type> pages,rate
-17,downloaded <page-type> type page file,file
-384,<number> file downloads,file
-86,viewed a page with word <post-word>,view
-132,wrote post that contains <post-word>,post
-317,saved a note for a page that contains <post-word>,note
-524,downloaded a file named <file-name>,file
-460,wrote post with  <sentiment> sentiment,post
-225,commented with <post-word> to the post ,reply
-409,post with <sentiment> sentiment,post
-119,first name <first-name>,profile
-209,the attendee is located in <poll-answer>rth Korea,profile
-140,replied to <mention>s post,reply
-147,website named <website>,profile
-443,post containing <number> replies,post
-226,liked message by <mention>,like
-503,rated <page-type> with <number> stars,rate
-208,liked a page <number> time and the page contains <post-word>,rate
-505,rated page contains <post-word>,rate
-391,rated page with <page-type> type,rate
-175,<post-word> in bio,profile
-313,profile details contain <position> position for the position,profile
-451,attended event <number> times,event
-245,rated with <number> stars ,rate
-378,choose <poll-answer> option in quick poll,poll
-84,<number> times left a note on a page,note
-73,rated page with <post-word> in text,rate
-43,participated in poll and answered <poll-answer>,poll
-322,voted on <number> polls,poll
-423,<location> location,profile
-454,<number> event attendances,event
-316,participated in <number> polls,poll
-529,attended <number> events,event
-7,at least <number> likes,like
-435,<number> posts likes,like
-201,downloaded a file <number> times,file
-349,went to <number> events,event
-222,commented to the post about <post-word>,reply
-464,post liked <number> times,post
-40,named <first-name>,profile
-56,<post-word> in their bio,profile
-495,name is <first-name>,profile
-248,converted on the activision <page-type>ed post,ad
-130,replied to post with <post-word> in it,reply
-356,made a download of a file which contains <file-name> in the name,file
-375,answered <poll-answer> in poll,poll
-442,liked <mention>s post,like
-82,replied to post written by Hoe <mention>s,reply
-251,wrote posts that contain the keyword <post-word>,post
-521,opened <page-type> page,view
-259,clicked a sponsored post <number> times,ad
-445,like of <mention>s post,like
-288,liked someone else's post with <sentiment> sentiment,like
-143,replied to post written by <mention>,reply
-1,liked any post <number> times,like
-332,clicked on <number> add,ad
-306,liked a post containing <post-word>,like
-397,note about <page-type>,note
-525,liked a post by Philip,like
-50,participated in no poll,poll
-110,the name <first-name>,profile
-354,downloaded a file with name <file-name>,file
-8,clickd on add that contained <post-word>,ad
-187,"post ""<post-word>""",post
-61,viewed page  <number> times,view
-231,attended Deaply Seals<number><number>,event
-323,<first-name> as first name,profile
-315,first name is <first-name>,profile
-286,liked a post with <sentiment> sentiment,like
-501,clicked on <number> ads,ad
-76,liked post written by <mention>,like
-88,a <social-network> account,profile
-517,content with <number> replies,post
-530,clicked on <number> ads,ad
-54,wrote at least <number> posts,post
-345,viewed <number> pages,view
-32,downloaed a file from <page-type> page,file
-357,linked <social-network> to their profile,profile
-411,n't like the event,profile
-504,clicked on ads <number> times,ad
-121,rated page <number> times,rate
-520,posted a content with <number> comments,post
-79,replied to <mention>s post,reply
-440,viewed page mentioning <post-word>,view
-3,wrote at least one post with mention of <mention>,post
-370,posted about <mention>,post
-419,<location> set as location,profile
-396,note on <page-type>s page,note
-467,rated page mentioning <post-word>,rate
-340,wrote a post with <sentiment> sentiment,post
-372,wrote post with mention of <mention>,post
-45,clicked on ad from <company>,ad
-47,never participated in poll,poll
-463,rating for page about <post-word>,rate
-341,visited a page with type <page-type>,view
-477,answerted <number> poll,poll
-26,got file from <page-type> type page,file
-87,downloaded <number> files,file
-165,all of them from <location>,profile
-526,downloaded <file-name>,file
-124,replied to the post that contains word <post-word>?,reply
-186,also has <phone> as phone,profile
-459,attended even <number> times,event
-267,phone number is <phone>,profile
-415,n't really like the event,profile
-388,<page-type> view,view
-277,<last-name> for the last name,profile
-298,rated <number> pages,rate
-37,downloaded <page-type> file,file
-414,written post with <sentiment> sentiment,post
-518,viewed <page-type>,view
-279,made <number> file downloads,file
-275,downloaded <number> files,file
-480,voted in single poll,poll
-218,liked <mention>s post,like
-522,liked a post by <mention>,like
-194,a reply to a user named <mention>,reply
-81,left a note on page <number> times,note
-256,downloaded something <number> times,file
-4,liked any post <number> or more times,like
-330,<location> as location,profile
-68,liked at least <number> post by <mention>,like
-381,checked <page-type> page,view
-52,replied to <sentiment> sentiment post,reply
-468,rated page with <post-word> word,rate
-502,rated with <number> stars <page-type>s page,rate
-444,view of page with <post-word> in its text,view
-214,viewed at least two pages,view
-441,posts with <number> replies,post
-33,n't enjoy the event,profile
-247,clicked on the activision <page-type>ed post,ad
-131,rated the page <number> times,rate
-511,created a not on page contains <post-word>,note
-268,commented one of <mention>'s posts,reply
-405,n't <enjoyment> the event,profile
-363,clicked on <company> ad,ad
-64,<last-name> as a last name,profile
-429,clicks on ads containing <post-word>,ad
-67,last name <last-name>,profile
-166,clicked <number> times on the ad on <page-type> page,ad
-141,bio contains <post-word>,profile
-217,voted <poll-answer> in any poll,poll
-178,exactly <number> attend,event
-450,wrote post with <number> comments,post
-111,liked the post <number> time,like
-167,no downloads,file
-470,wrote post which was liked <number> times,post
-135,left a note on page containing <post-word>,note
-449,liked post written by <mention>,like
-367,participated in quick poll answering <poll-answer>,poll
-346,attended <number> events,event
-516,rated page with <number> stars,rate
-308,phone number is <phone>,profile
-19,participated in poll answered <poll-answer> to any question,poll
-18,rated any page <number> times,rate
-486,wrote a post about <mention>,post
-126,replied on post containing <post-word>,reply
-20,downloaded a file from page with <page-type> type,file
-164,website set in their profile as <website>,profile
-137,created a post with word <post-word> in text,post
-99,replied to post by <mention>,reply
-390,work at <company>,profile
-458,work at <position> position,profile
-360,wrote post mentioning <mention>,post
-299,clicked an ad <number> time,ad
-23,downloaded a file from <page-type> page,file
-399,works at <company>,profile
-300,<position> in the position field,profile
-204,answered <number> polls,poll
-496,opened page with <post-word>,view
-479,voted in poll once,poll
-265,wrote post that got <number> comments,post
-487,clicked on advertisement by 'Acisi Inc.',ad
-190,reply to <mention>,reply
-342,added a post with <sentiment> sentiment,post
-273,<first-name>,profile
-25,in poll answered <poll-answered>,poll
-36,<first-name>s,profile
-234,work at <company>,profile
-339,viewed a page with <page-type> type,view
-224,liked post written by <mention>,like
-212,viewed a page two times,view
-271,named <first-name>,profile
-29,downloaded any file from <page-type> page,file
-385,participated in poll answering <poll-answer>,poll
-102,replied to <mention>,reply
-238,replied to a post with <sentiment> sentiment,reply
-200,answered <number> polls with <poll-answer>,poll
-77,rated page with word <post-word> in text,rate
-134,liked a <sentiment> post <number> times,like
-115,liked the post <number> times,like
-5,clickd on ad with text <post-word> in it,ad
-465,<sentiment> feelings towards the event,profile
-228,liked  <mention>s message,like
-189,<phone> phone,profile
-509,connected Google +,profile
-457,<sentiment> posts,post
-39,replied to post with <sentiment> sentiment,reply
-157,liked all posts about <post-word>,like
-331,left a comment on a post by <mention>,reply
-125,mentioned <post-word>,post
-427,liked post <number> times,like
-240,commented <sentiment>ly,reply
-471,attended <event>,event
-368,wrote post with <mention>s mention,post
-507,leave a rate on page with <post-word>,rate
-9,clicked on ad about <post-word>,ad
-485,converted on the <company> ad ,profile
-207,rated a page that contains <post-word> at least <number> times,rate
-227,left a reply for the post about <post-word>,reply
-510,took a not on page with <post-word>,note
-66,downloaded a file from page with <page-type> type,file
-197,number is <phone>,profile
-514,post with <number> replies,reply
-38,first name <first-name>,profile
-14,clicked on ad that contains <post-word>,ad
-176,attended before,event
-432,clicked on <post-word> ad,ad
-293,clicked on an ad <number> time,ad
-42,clicked <company> ad,ad
-216,replied to post with <post-word>,reply
-358,clicked on ad by <company>,ad
-221,liked <mention>s content,like
-373,clicked on ad created by <company>,ad
-469,posted something liked <number> times,post
-122,wrote a post that contains <post-word>?,post
-285,created a post with <sentiment> sentiment,poll
-213, <website> as website,profile
-436,clicked on ad containing <post-word>,ad
-139,created a post on page containing <post-word>,post
-138,liked <number> <sentiment> posts,like
-262,wrote something about <post-word>,post
-291,participated in a poll with the question <poll-question>?',poll
-497,posted a message with <number> likes,post
-420,from <location>,profile
-338,from <location>,profile
-376,downloaded file <number> times,file
+,phrase,replacements,label,final
+253,posted about <post-word>,"{""post-word"": ""honey""}",post,posted about honey
+284,answered <poll-answer> to a poll,"{""poll-answer"": ""'No'""}",poll,answered 'No' to a poll
+79,replied to <mention>s post,"{""mention"": ""Hoe Griffith'""}",reply,replied to Hoe Griffith's post
+511,created a not on page contains <post-word>,"{""post-word"": ""'coastal'""}",note,created a not on page contains 'coastal'
+433,<number> likes of posts,"{""number"": ""5""}",like,5 likes of posts
+220,answered <poll-answer> in any poll,"{""poll-answer"": ""No""}",poll,answered No in any poll
+114,the word <post-word> in bio,"{""post-word"": ""'captive'""}",profile,the word 'captive' in bio
+180,"who's bio contains ""<post-word>""","{""post-word"": ""biplane""}",profile,"who's bio contains ""biplane"""
+430,<number> post likes,"{""number"": ""5""}",like,5 post likes
+77,rated page with word <post-word> in text,"{""post-word"": ""'abomination'""}",rate,rated page with word 'abomination' in text
+315,first name is <first-name>,"{""first-name"": ""Nancie""}",profile,first name is Nancie
+504,clicked on ads <number> times,"{""number"": ""2""}",ad,clicked on ads 2 times
+318,<first-name> as the first name,"{""first-name"": ""Nancie""}",profile,Nancie as the first name
+432,clicked on <post-word> ad,"{""post-word"": ""'escapist'""}",ad,clicked on 'escapist' ad
+134,liked a <sentiment> post <number> times,"{""sentiment"": ""positive"", ""number"": ""3""}",like,liked a positive post 3 times
+324,left a vote on <number> polls,"{""number"": ""7""}",poll,left a vote on 7 polls
+137,created a post with word <post-word> in text,"{""post-word"": ""'easy'""}",post,created a post with word 'easy' in text
+76,liked post written by <mention>,"{""mention"": ""Dolores Cummings""}",like,liked post written by Dolores Cummings
+454,<number> event attendances,"{""number"": ""4""}",event,4 event attendances
+84,<number> times left a note on a page,"{""number"": ""9""}",note,9 times left a note on a page
+481,clicked on ad by <company>,"{""company"": ""'Acsis Inc.'""}",ad,clicked on ad by 'Acsis Inc.'
+417,replied to posts about <post-word>,"{""post-word"": ""'concussion'""}",reply,replied to posts about 'concussion'
+45,clicked on ad from <company>,"{""company"": ""'Ablitech Co'""}",ad,clicked on ad from 'Ablitech Co'
+413,linked <social-network>+ account,"{""social-network"": ""google""}",profile,linked google+ account
+329,replied to a post by <mention>,"{""mention"": ""Kristin Hansen""}",reply,replied to a post by Kristin Hansen
+509,connected Google +,{},profile,connected Google +
+321,saved a note on page containing the word <post-word>,"{""post-word"": ""'concussion'""}",note,saved a note on page containing the word 'concussion'
+13,liked it <number> times,"{""number"": ""9""}",like,liked it 9 times
+299,clicked an ad <number> time,"{""number"": ""1""}",ad,clicked an ad 1 time
+32,downloaed a file from <page-type> page,"{""page-type"": ""exhibitor""}",file,downloaed a file from exhibitor page
+25,in poll answered <poll-answered>,"{""poll-answer"": ""yes""}",poll,in poll answered <poll-answered>
+18,rated any page <number> times,"{""number"": ""four""}",rate,rated any page four times
+346,attended <number> events,"{""number"": ""0""}",event,attended 0 events
+501,clicked on <number> ads,"{""number"": ""2""}",ad,clicked on 2 ads
+221,liked <mention>s content,"{""mention"": ""Caleb Ramirez'""}",like,liked Caleb Ramirez's content
+469,posted something liked <number> times,"{""number"": ""2""}",post,posted something liked 2 times
+492,posted a content with <number> likes,"{""number"": ""8""}",post,posted a content with 8 likes
+362,mentioned <mention> in post,"{""mention"": ""Dorothy Larson""}",post,mentioned Dorothy Larson in post
+364,posts about <mention>,"{""mention"": ""Dorothy Larson""}",post,posts about Dorothy Larson
+217,voted <poll-answer> in any poll,"{""poll-answer"": ""No""}",poll,voted No in any poll
+442,liked <mention>s post,"{""mention"": ""Clay Arnold'""}",like,liked Clay Arnold's post
+366,clicks on ads published by <company>,"{""company"": ""'AC Lens'""}",ad,clicks on ads published by 'AC Lens'
+87,downloaded <number> files,"{""number"": ""5""}",file,downloaded 5 files
+262,wrote something about <post-word>,"{""post-word"": ""honey""}",post,wrote something about honey
+411,n't like the event,{},profile,n't like the event
+310,left at least one like on a post with the word <post-word>,"{""post-word"": ""'pragmatic'""}",like,left at least one like on a post with the word 'pragmatic'
+150,liked posts about <post-word>,"{""post-word"": ""'escapist'""}",like,liked posts about 'escapist'
+58,phone <phone>,"{""phone"": ""(290) 448-8241""}",profile,phone (290) 448-8241
+89,clicked on an ad with the word <post-word>,"{""post-word"": ""'big'""}",ad,clicked on an ad with the word 'big'
+434,clicks on ad which mentioned <post-word>,"{""post-word"": ""'escapist'""}",ad,clicks on ad which mentioned 'escapist'
+74,n't impressed by the event,{},profile,n't impressed by the event
+279,made <number> file downloads,"{""number"": ""7""}",file,made 7 file downloads
+502,rated with <number> stars <page-type>s page,"{""number"": ""2"", ""page-type"": ""speaker'""}",rate,rated with 2 stars speaker's page
+68,liked at least <number> post by <mention>,"{""mention"": ""Shawna Potter"",""number"":""one""}",like,liked at least one post by Shawna Potter
+15,rated page at least <number> times,"{""number"": ""4""}",rate,rated page at least 4 times
+56,<post-word> in their bio,"{""post-word"": ""'captive'""}",profile,'captive' in their bio
+301,phone number equals <phone>,"{""phone"": ""(101) 892-2757""}",profile,phone number equals (101) 892-2757
+516,rated page with <number> stars,"{""number"": ""2""}",rate,rated page with 2 stars
+528,bio contains <number>,"{""number"": ""8""}",profile,bio contains 8
+388,<page-type> view,"{""page-type"": ""session""}",view,session view
+166,clicked <number> times on the ad on <page-type> page,"{""page-type"": ""exhibitor"",""number"":""five""}",ad,clicked five times on the ad on exhibitor page
+98,liked post about <post-word>,"{""post-word"": ""biplane""}",like,liked post about biplane
+136,made <number> likes on <sentiment> posts,"{""sentiment"": ""positive"", ""number"": ""3""}",like,made 3 likes on positive posts
+260,liked a post with the keyword <post-word>,"{""post-word"": ""big""}",like,liked a post with the keyword big
+143,replied to post written by <mention>,"{""mention"": ""Andy Chandler""}",reply,replied to post written by Andy Chandler
+202,answered <poll-answer> for a poll,"{""poll-answer"":""'no'""}",poll,answered 'no' for a poll
+293,clicked on an ad <number> time,"{""number"": ""1""}",ad,clicked on an ad 1 time
+235,rated a page at least one time ,{},rate,rated a page at least one time 
+450,wrote post with <number> comments,"{""number"": ""5""}",post,wrote post with 5 comments
+313,profile details contain <position> position for the position,"{""position"": ""Administrative Generalist/Specialist""}",profile,profile details contain Administrative Generalist/Specialist position for the position
+128,"replied to the post that contains word <post-word>""","{""post-word"": ""'blackout""}",reply,"replied to the post that contains word 'blackout"""
+272,name is <first-name>,"{""first-name"":""vida""}",profile,name is vida
+189,<phone> phone,"{""phone"": ""(344) 842-7718""}",profile,(344) 842-7718 phone
+515,viewed <page-type> page,"{""page-type"": ""sponsor""}",view,viewed sponsor page
+187,"post ""<post-word>""","{""post-word"": ""rare""}",post,"post ""rare"""
+354,downloaded a file with name <file-name>,"{""file-name"": ""'presentation.pptx'""}",file,downloaded a file with name 'presentation.pptx'
+375,answered <poll-answer> in poll,"{""poll-answer"": ""'Yes'""}",poll,answered 'Yes' in poll
+53,liked <mention> post,"{""mention"": ""Caleb Ramirez'""}",like,liked Caleb Ramirez' post
+380,clicked on file <number> times,"{""number"": ""9""}",file,clicked on file 9 times
+80,liked post containing word <post-word>,"{""post-word"": ""'coastal'""}",like,liked post containing word 'coastal'
+23,downloaded a file from <page-type> page,"{""page-type"": ""exhibitor""}",file,downloaded a file from exhibitor page
+427,liked post <number> times,"{""number"": ""5""}",like,liked post 5 times
+121,rated page <number> times,"{""number"": ""3""}",rate,rated page 3 times
+426,working at <company>,"{""company"": ""Abercrombie & Fitch""}",profile,working at Abercrombie & Fitch
+267,phone number is <phone>,"{""number"": ""(939) 771-3645""}",profile,phone number is <phone>
+115,liked the post <number> times,"{""number"": ""nine""}",like,liked the post nine times
+29,downloaded any file from <page-type> page,"{""page-type"": ""exhibitor""}",file,downloaded any file from exhibitor page
+316,participated in <number> polls,"{""number"": ""7""}",poll,participated in 7 polls
+470,wrote post which was liked <number> times,"{""number"": ""2""}",post,wrote post which was liked 2 times
+356,made a download of a file which contains <file-name> in the name,"{""file-name"": ""'presentation.pptx'""}",file,made a download of a file which contains 'presentation.pptx' in the name
+525,liked a post by Philip,{},like,liked a post by Philip
+251,wrote posts that contain the keyword <post-word>,"{""post-word"": ""honey""}",post,wrote posts that contain the keyword honey
+49,bio has <post-word> in it,"{""post-word"": ""'captive'""}",profile,bio has 'captive' in it
+172,"bio having ""<post-word>""","{""post-word"": ""biplane""}",profile,"bio having ""biplane"""
+144,viewed page <number> times,"{""number"": ""2""}",view,viewed page 2 times
+177,liked a <sentiment>ly colored sentiment,"{""sentiment"": ""positive""}",like,liked a positively colored sentiment
+266,the phone number <phone>,"{""phone"": ""(939) 771-3645""}",profile,the phone number (939) 771-3645
+46,clicked on ad from <company>,"{""company"": ""'Ablitech, Inc.'""}",ad,"clicked on ad from 'Ablitech, Inc.'"
+295,interacted with an ad <number> time,"{""number"": ""1""}",ad,interacted with an ad 1 time
+320,left a note on a page that contains <post-word>,"{""post-word"": ""'concussion'""}",note,left a note on a page that contains 'concussion'
+446,viewed page which contains <post-word>,"{""post-word"": ""'beyond'""}",view,viewed page which contains 'beyond'
+513,Google + account,{},profile,Google + account
+326,added a note to page with the word <post-word>,"{""post-word"": ""'concussion'""}",note,added a note to page with the word 'concussion'
+300,<position> in the position field,"{""position"": ""Administrative Generalist/Specialist""}",profile,Administrative Generalist/Specialist in the position field
+514,post with <number> replies,"{""number"": ""9""}",reply,post with 9 replies
+192,"post has ""<post-word>""","{""post-word"": ""rare""}",post,"post has ""rare"""
+66,downloaded a file from page with <page-type> type,"{""page-type"": ""'sponsor'""}",file,downloaded a file from page with 'sponsor' type
+317,saved a note for a page that contains <post-word>,"{""post-word"": ""'concussion'""}",note,saved a note for a page that contains 'concussion'
+459,attended even <number> times,"{""number"": ""5""}",event,attended even 5 times
+100,"""<post-word>"" in bio","{""post-word"": ""big""}",profile,"""big"" in bio"
+215,answered <poll-answer> in poll,"{""poll-answer"": ""No""}",poll,answered No in poll
+230,left a comment for the post with <post-word>,"{""post-word"": ""'biplane'""}",reply,left a comment for the post with 'biplane'
+212,viewed a page two times,{},view,viewed a page two times
+373,clicked on ad created by <company>,"{""company"": ""'AC Lens'""}",ad,clicked on ad created by 'AC Lens'
+495,name is <first-name>,"{""first-name"": ""Petra""}",profile,name is Petra
+487,clicked on advertisement by 'Acisi Inc.',{},ad,clicked on advertisement by 'Acisi Inc.'
+406,<sentiment> sentiment towards event,"{""sentiment"": ""negative""}",event,negative sentiment towards event
+332,clicked on <number> add,"{""number"": ""1""}",ad,clicked on 1 add
+314,<phone> for the phone number,"{""phone"": ""(101) 892-2757""}",profile,(101) 892-2757 for the phone number
+69,downloaded file from <page-type> type page,"{""page-type"": ""'sponsor'""}",file,downloaded file from 'sponsor' type page
+507,leave a rate on page with <post-word>,"{""post-word"": ""'pragmatic'""}",rate,leave a rate on page with 'pragmatic'
+105,"like posts with ""<post-word>"" in it","{""post-word"": ""biplane""}",like,"like posts with ""biplane"" in it"
+344,answer to a poll equals <poll-answer>,"{""poll-answer"": ""'No'""}",poll,answer to a poll equals 'No'
+403,connected <social-network>+,"{""social-network"": ""google""}",profile,connected google+
+237,wrote a post that got <number> replies,"{""number"": ""7""}",post,wrote a post that got 7 replies
+355,connected <social-network>,"{""social-network"": ""facebook""}",profile,connected facebook
+351,left <number> notes,"{""number"": ""3""}",note,left 3 notes
+527,clicked on an ad <number> times,"{""number"": ""4""}",ad,clicked on an ad 4 times
+133,wrote a note on page with word <post-word>,"{""post-word"": ""'easy'""}",note,wrote a note on page with word 'easy'
+452,work as Affordable Housting Specialist,{},profile,work as Affordable Housting Specialist
+24,rated page <number> or more times,"{""number"": ""4""}",rate,rated page 4 or more times
+27,rated page <number> times,"{""number"": ""4""}",rate,rated page 4 times
+232,rated page with <number> stars,"{""number"": ""0""}",rate,rated page with 0 stars
+219,replied to the post contains <post-word>,"{""post-word"": ""'biplane'""}",reply,replied to the post contains 'biplane'
+5,clickd on ad with text <post-word> in it,"{""post-word"": ""'blackout'""}",ad,clickd on ad with text 'blackout' in it
+387,<poll-answer> answer in quick poll,"{""poll-answer"": ""'Yes'""}",poll,'Yes' answer in quick poll
+407,<sentiment> post,"{""sentiment"": ""positive""}",post,positive post
+236,viewed a page <number> times,"{""number"": ""5""}",view,viewed a page 5 times
+0,wrote posts mentioning <mention>,"{""mention"": ""Stacy Vaughn""}",post,wrote posts mentioning Stacy Vaughn
+312,liked a post containing the word <post-word>,"{""post-word"": ""'pragmatic'""}",like,liked a post containing the word 'pragmatic'
+20,downloaded a file from page with <page-type> type,"{""page-type"": ""'exhibitor'""}",file,downloaded a file from page with 'exhibitor' type
+44,wrote a post with <sentiment> sentiment,"{""sentiment"": ""positive""}",post,wrote a post with positive sentiment
+394,works ar <company>,"{""company"": ""Abercrombie & Fitch""}",profile,works ar Abercrombie & Fitch
+201,downloaded a file <number> times,"{""number"":""five""}",file,downloaded a file five times
+246,<email> email,"{""email"": ""rgarcia@optonline.net""}",profile,rgarcia@optonline.net email
+158,from <location>,"{""location"": ""'Greece'""}",profile,from 'Greece'
+287,post has <sentiment> sentiment,"{""sentiment"": ""negative""}",post,post has negative sentiment
+6,wrote a post about <mention>,"{""mention"": ""Stacy Vaughn""}",post,wrote a post about Stacy Vaughn
+392,rated <page-type>s page,"{""page-type"": ""exhibitor'""}",rate,rated exhibitor's page
+464,post liked <number> times,"{""number"": ""2""}",post,post liked 2 times
+55,any <sentiment> post,"{""sentiment"": ""positive""}",post,any positive post
+382,<page-type> page views,"{""page-type"": ""session""}",view,session page views
+38,first name <first-name>,"{""first-name"": ""Marjorie""}",profile,first name Marjorie
+303,the phone number <phone>,"{""phone"": ""(101) 892-2757""}",profile,the phone number (101) 892-2757
+248,converted on the activision <page-type>ed post,"{""page-type"": ""sponsor""}",ad,converted on the activision sponsored post
+229, voted <poll-answer>,"{""poll-answer"": ""No""}",poll, voted No
+51,rated <page-type> page,"{""page-type"": ""speaker""}",rate,rated speaker page
+99,replied to post by <mention>,"{""mention"": ""Sherman Cooper""}",reply,replied to post by Sherman Cooper
+395,<page-type>s page rating,"{""page-type"": ""exhibitor'""}",rate,exhibitor's page rating
+119,first name <first-name>,"{""first-name"": ""'Chante'""}",profile,first name 'Chante'
+42,clicked <company> ad,"{""company"": ""ablitech""}",ad,clicked ablitech ad
+422,replied to post with <post-word> in its text,"{""post-word"": ""'concussion'""}",reply,replied to post with 'concussion' in its text
+64,<last-name> as a last name,"{""last-name"": ""White""}",profile,White as a last name
+90, commented with a word <post-word>,"{""post-word"": ""'convulsion'""}",reply, commented with a word 'convulsion'
+16,answered <poll-answer> in a poll,"{""poll-answer"": ""'Yes'""}",poll,answered 'Yes' in a poll
+520,posted a content with <number> comments,"{""number"": ""9""}",post,posted a content with 9 comments
+524,downloaded a file named <file-name>,"{""file-name"": ""workshop.doc""}",file,downloaded a file named workshop.doc
+473,left rating on page with <page-type> type,"{""page-type"": ""'exhibitor'""}",rate,left rating on page with 'exhibitor' type
+269,commented estelle jimenez's post,"{""mention"":""estelle jimenez""}",reply,commented estelle jimenez's post
+500,posted <number> messages,"{""number"": ""2""}",post,posted 2 messages
+455,set position to <position>,"{""position"": ""Affordable Housing Specialist""}",profile,set position to Affordable Housing Specialist
+139,created a post on page containing <post-word>,"{""post-word"": ""'easy'""}",post,created a post on page containing 'easy'
+493,visited page contains <post-word>,"{""post-word"": ""'adsorbable'""}",view,visited page contains 'adsorbable'
+311,<position>s,"{""position"": ""Administrative Generalist/Specialist""}",profile,Administrative Generalist/Specialists
+357,linked <social-network> to their profile,"{""social-network"": ""facebook""}",profile,linked facebook to their profile
+164,website set in their profile as <website>,"{""website"": ""'free.fr'""}",profile,website set in their profile as 'free.fr'
+518,viewed <page-type>,"{""page-type"": ""sponsor""}",view,viewed sponsor
+359,answered <poll-answer> in quick poll,"{""poll-answer"": ""'Yes'""}",poll,answered 'Yes' in quick poll
+333,<location> in profile details ,"{""location"": ""Samoa""}",profile,Samoa in profile details 
+435,<number> posts likes,"{""number"": ""5""}",like,5 posts likes
+205,at least <number> answer was <poll-answer>,"{""number"":""one"",""poll-answer"":""'no'""}",poll,at least one answer was 'no'
+122,wrote a post that contains <post-word>?,"{""post-word"": ""'big'""}",post,wrote a post that contains 'big'?
+173,attended once,{},event,attended once
+506,voted <number> times,"{""number"": ""4""}",poll,voted 4 times
+483,participated in a polls <number> times,"{""number"": ""4""}",poll,participated in a polls 4 times
+149,<website> website,"{""website"": ""'bandcamp.com'""}",profile,'bandcamp.com' website
+296,voted on a poll with the question <poll-question>?',"{""poll-question"": ""'Do you sleep with your sheets tucked in""}",poll,voted on a poll with the question 'Do you sleep with your sheets tucked in?'
+331,left a comment on a post by <mention>,"{""mention"": ""Kristin Hansen""}",reply,left a comment on a post by Kristin Hansen
+345,viewed <number> pages,"{""number"": ""4""}",view,viewed 4 pages
+226,liked message by <mention>,"{""mention"": ""Caleb Ramirez""}",like,liked message by Caleb Ramirez
+41,wrote <sentiment> post,"{""sentiment"": ""positive""}",post,wrote positive post
+243,<email>,"{""email"": ""rgarcia@optonline.net""}",profile,rgarcia@optonline.net
+204,answered <number> polls,"{""number"": ""three""}",poll,answered three polls
+436,clicked on ad containing <post-word>,"{""post-word"": ""'escapist'""}",ad,clicked on ad containing 'escapist'
+8,clickd on add that contained <post-word>,"{""post-word"": ""'blackout'""}",ad,clickd on add that contained 'blackout'
+443,post containing <number> replies,"{""number"": ""5""}",post,post containing 5 replies
+463,rating for page about <post-word>,"{""post-word"": ""'coastal'""}",rate,rating for page about 'coastal'
+222,commented to the post about <post-word>,"{""post-word"": ""'biplane'""}",reply,commented to the post about 'biplane'
+261,saw any page <number> times,"{""number"": ""5""}",view,saw any page 5 times
+117,liked post <number> times,"{""number"": ""9""}",like,liked post 9 times
+404,written <sentiment> posts,"{""sentiment"": ""positive""}",post,written positive posts
+244,<website> as their website,"{""website"": ""deviantart.com""}",profile,deviantart.com as their website
+408,connected <social-network>+ account,"{""social-network"": ""google""}",profile,connected google+ account
+389,left a note on page with <page-type> type,"{""page-type"": ""'speaker'""}",note,left a note on page with 'speaker' type
+398,<page-type> rating,"{""page-type"": ""exhibitor""}",rate,exhibitor rating
+306,liked a post containing <post-word>,"{""post-word"": ""'pragmatic'""}",like,liked a post containing 'pragmatic'
+439,wrote post with <number> replies,"{""number"": ""5""}",post,wrote post with 5 replies
+171,<number> downloads,"{""number"": ""0""}",file,0 downloads
+521,opened <page-type> page,"{""page-type"": ""sponsor""}",view,opened sponsor page
+289,responded <poll-answer> to a poll,"{""poll-answer"": ""'No'""}",poll,responded 'No' to a poll
+154,rated <page-type> pages,"{""page-type"": ""'session'""}",rate,rated 'session' pages
+242,wrote post that got <number> comments ,"{""number"": ""7""}",post,wrote post that got 7 comments 
+33,n't enjoy the event,{},profile,n't enjoy the event
+290,attendees posted at least one post with <sentiment> sentiment,"{""sentiment"": ""negative""}",post,attendees posted at least one post with negative sentiment
+278,n't use the app,{},session,n't use the app
+21,rated page <number> time,"{""number"": ""4""}",rate,rated page 4 time
+231,attended Deaply Seals<number><number>,"{""number"": ""5""}",event,attended Deaply Seals55
+102,replied to <mention>,"{""mention"": ""Sherman Cooper""}",reply,replied to Sherman Cooper
+82,replied to post written by Hoe <mention>s,"{""mention"": ""Hoe Griffith'""}",reply,replied to post written by Hoe Hoe Griffith's
+330,<location> as location,"{""location"": ""Samoa""}",profile,Samoa as location
+461,rated page containing <post-word>,"{""post-word"": ""'coastal'""}",rate,rated page containing 'coastal'
+210,attended the event 'Deeply Seals<number><number>,"{""number"": ""5'""}",event,attended the event 'Deeply Seals5'5'
+196,"the ""<post-word>"" word in their writings","{""post-word"": ""rare""}",post,"the ""rare"" word in their writings"
+131,rated the page <number> times,"{""number"": ""three""}",rate,rated the page three times
+167,no downloads,{},file,no downloads
+370,posted about <mention>,"{""mention"": ""Dorothy Larson""}",post,posted about Dorothy Larson
+522,liked a post by <mention>,"{""mention"": ""Philip Stephens""}",like,liked a post by Philip Stephens
+238,replied to a post with <sentiment> sentiment,"{""sentiment"": ""negative""}",reply,replied to a post with negative sentiment
+240,commented <sentiment>ly,"{""sentiment"": ""negative""}",reply,commented negatively
+360,wrote post mentioning <mention>,"{""mention"": ""Dorothy Larson""}",post,wrote post mentioning Dorothy Larson
+431,<company> set as company,"{""company"": ""Abercrombie & Fitch""}",profile,Abercrombie & Fitch set as company
+256,downloaded something <number> times,"{""number"": ""3""}",file,downloaded something 3 times
+462,wrote post with <number> likes,"{""number"": ""2""}",post,wrote post with 2 likes
+59,downloaded <file-name> file,"{""file-name"": ""'workshop.doc'""}",file,downloaded 'workshop.doc' file
+132,wrote post that contains <post-word>,"{""post-word"": ""'big'""}",post,wrote post that contains 'big'
+207,rated a page that contains <post-word> at least <number> times,"{""post-word"": ""'gargoyle'"", ""poll-answer"": ""No"",""number"":""nine""}",rate,rated a page that contains 'gargoyle' at least nine times
+247,clicked on the activision <page-type>ed post,"{""page-type"": ""sponsor""}",ad,clicked on the activision sponsored post
+48,never answered <poll-answer>,"{""poll-answer"": ""yes""}",poll,never answered yes
+179,liked a post with a <sentiment> sentiment,"{""sentiment"": ""positive""}",like,liked a post with a positive sentiment
+126,replied on post containing <post-word>,"{""post-word"": ""'blackout'""}",reply,replied on post containing 'blackout'
+385,participated in poll answering <poll-answer>,"{""poll-answer"": ""'Yes'""}",poll,participated in poll answering 'Yes'
+335,attendees from <location>,"{""location"": ""Samoa""}",profile,attendees from Samoa
+34,name <first-name>,"{""first-name"": ""Marjorie""}",profile,name Marjorie
+142,viewed <number> pages,"{""number"": ""2""}",view,viewed 2 pages
+419,<location> set as location,"{""location"": ""Vatican City""}",profile,Vatican City set as location
+526,downloaded <file-name>,"{""file-name"": ""workshop.doc""}",file,downloaded workshop.doc
+160,attended event <number> times,"{""number"": ""3""}",event,attended event 3 times
+61,viewed page  <number> times,"{""number"": ""5""}",view,viewed page  5 times
+471,attended <event>,"{""event"": ""'Happy Hippopotamuss'18'""}",event,attended 'Happy Hippopotamuss'18'
+259,clicked a sponsored post <number> times,"{""number"": ""7""}",ad,clicked a sponsored post 7 times
+383,<poll-answer> quick poll answers,"{""poll-answer"": ""'Yes'""}",poll,'Yes' quick poll answers
+297,answered <poll-question>?' in a poll,"{""poll-question"": ""'Do you sleep with your sheets tucked in""}",poll,answered 'Do you sleep with your sheets tucked in?' in a poll
+286,liked a post with <sentiment> sentiment,"{""sentiment"": ""positive""}",like,liked a post with positive sentiment
+176,attended before,{},event,attended before
+104,liked some post on <post-word>s,"{""post-word"": ""biplane""}",like,liked some post on biplanes
+480,voted in single poll,{},poll,voted in single poll
+73,rated page with <post-word> in text,"{""post-word"": ""'abomination'""}",rate,rated page with 'abomination' in text
+7,at least <number> likes,"{""number"": ""nine""}",like,at least nine likes
+250,a post that was liked <number> times,"{""number"": ""7""}",post,a post that was liked 7 times
+67,last name <last-name>,"{""last-name"": ""White""}",profile,last name White
+96,left commented about <post-word>,"{""post-word"": ""'convulsion'""}",reply,left commented about 'convulsion'
+190,reply to <mention>,"{""mention"": ""Stacy Vaughn""}",reply,reply to Stacy Vaughn
+458,work at <position> position,"{""position"": ""Affordable Housing Specialist""}",profile,work at Affordable Housing Specialist position
+418,replied to post with <post-word>,"{""post-word"": ""'concussion'""}",reply,replied to post with 'concussion'
+519,rated page with more than <number> stars,"{""number"": ""2""}",rate,rated page with more than 2 stars
+3,wrote at least one post with mention of <mention>,"{""mention"": ""Stacy Vaughn""}",post,wrote at least one post with mention of Stacy Vaughn
+14,clicked on ad that contains <post-word>,"{""post-word"": ""'blackout'""}",ad,clicked on ad that contains 'blackout'
+155,gave rating to <page-type> pages,"{""page-type"": ""'session'""}",rate,gave rating to 'session' pages
+218,liked <mention>s post,"{""mention"": ""Caleb Ramirez'""}",like,liked Caleb Ramirez's post
+191,phone number <phone>,"{""phone"": ""(344) 842-7718""}",profile,phone number (344) 842-7718
+43,participated in poll and answered <poll-answer>,"{""poll-answer"": ""yes""}",poll,participated in poll and answered yes
+174,liked a <sentiment> post,"{""sentiment"": ""positive""}",like,liked a positive post
+350,viewed a page with <post-word>,"{""post-word"": ""'biplane'""}",view,viewed a page with 'biplane'
+175,<post-word> in bio,"{""post-word"": ""'biplane'""}",profile,'biplane' in bio
+168,clicked <number> times on the ad on the <page-type> page,"{""page-type"": ""exhibitor"",""number"":""five""}",ad,clicked five times on the ad on the exhibitor page
+11,wrote post with <mention>s mention,"{""mention"": ""Stacy Vaughn'""}",post,wrote post with Stacy Vaughn's mention
+208,liked a page <number> time and the page contains <post-word>,"{""number"":""nine"",""post-word"":""'gargoyle'""}",rate,liked a page nine time and the page contains 'gargoyle'
+62,never participated in polls,{},poll,never participated in polls
+484,participated in <number> polls,"{""number"": ""4""}",poll,participated in 4 polls
+199,answered a poll <poll-answer> <number> times,"{""poll-answer"":""'no'"",""number"":""three""}",poll,answered a poll 'no' three times
+170,users clicked <number> times ad <page-type> page,"{""number"": ""5"", ""page-type"": ""exhibitor""}",ad,users clicked 5 times ad exhibitor page
+328,took part in <number> polls,"{""number"": ""7""}",poll,took part in 7 polls
+308,phone number is <phone>,"{""phone"": ""(101) 892-2757""}",profile,phone number is (101) 892-2757
+372,wrote post with mention of <mention>,"{""mention"": ""Dorothy Larson""}",post,wrote post with mention of Dorothy Larson
+123,wrote the post about <post-word>,"{""post-word"": ""'big'""}",post,wrote the post about 'big'
+401,rated an <page-type>,"{""page-type"": ""exhibitor""}",rate,rated an exhibitor
+197,number is <phone>,"{""phone"": ""(344) 842-7718""}",profile,number is (344) 842-7718
+213, <website> as website,"{""website"": ""'ow.ly'""}",profile, 'ow.ly' as website
+214,viewed at least two pages,{},view,viewed at least two pages
+277,<last-name> for the last name,"{""last-name"": ""Rodriguez""}",profile,Rodriguez for the last name
+505,rated page contains <post-word>,"{""post-word"": ""'pragmatic'""}",rate,rated page contains 'pragmatic'
+124,replied to the post that contains word <post-word>?,"{""post-word"": ""'blackout'""}",reply,replied to the post that contains word 'blackout'?
+182,attended an event once,{},event,attended an event once
+28,participated in poll and answered yes,"{""poll-answer"": ""yes""}",poll,participated in poll and answered yes
+453,<position> position,"{""position"": ""Affordable Housing Specialist""}",profile,Affordable Housing Specialist position
+153,first name is <first-name>,"{""first-name"": ""'Lavern'""}",profile,first name is 'Lavern'
+37,downloaded <page-type> file,"{""page-type"": ""exhibitor""}",file,downloaded exhibitor file
+148,make a reply to the post written by <mention>,"{""mention"": ""Andy Chandler""}",reply,make a reply to the post written by Andy Chandler
+496,opened page with <post-word>,"{""post-word"": ""'adsorbable'""}",view,opened page with 'adsorbable'
+255,downloaded a file <number> times,"{""number"": ""3""}",file,downloaded a file 3 times
+400,from <company>,"{""company"": ""Abercrombie & Fitch""}",profile,from Abercrombie & Fitch
+451,attended event <number> times,"{""number"": ""4""}",event,attended event 4 times
+396,note on <page-type>s page,"{""page-type"": ""speaker'""}",note,note on speaker's page
+381,checked <page-type> page,"{""page-type"": ""session""}",view,checked session page
+291,participated in a poll with the question <poll-question>?',"{""poll-question"": ""'Do you sleep with your sheets tucked in""}",poll,participated in a poll with the question 'Do you sleep with your sheets tucked in?'
+288,liked someone else's post with <sentiment> sentiment,"{""sentiment"": ""positive""}",like,liked someone else's post with positive sentiment
+107,replied to <mention>,"{""mention"": ""Cooper""}",reply,replied to Cooper
+405,n't <enjoyment> the event,"{""enjoyment"": ""enjoyed""}",profile,n't enjoyed the event
+1,liked any post <number> times,"{""number"": ""9""}",like,liked any post 9 times
+494,called <first-name>,"{""first-name"": ""Petra""}",profile,called Petra
+488,took <number> polls,"{""number"": ""4""}",poll,took 4 polls
+83,liked post with word <post-word>,"{""post-word"": ""'coastal'""}",like,liked post with word 'coastal'
+294,gave a rating to a page <number> times,"{""number"": ""7""}",rate,gave a rating to a page 7 times
+40,named <first-name>,"{""first-name"": ""Marjorie""}",profile,named Marjorie
+75,clicked on any ad <number> times,"{""number"": ""6""}",ad,clicked on any ad 6 times
+254,works at abbott laboratories ,{},profile,works at abbott laboratories 
+448,view of page which mentioned <post-word>,"{""post-word"": ""'beyond'""}",view,view of page which mentioned 'beyond'
+415,n't really like the event,{},profile,n't really like the event
+367,participated in quick poll answering <poll-answer>,"{""poll-answer"": ""'Yes'""}",poll,participated in quick poll answering 'Yes'
+85,left <number> notes on a page,"{""number"": ""9""}",note,left 9 notes on a page
+347,profile phone contains <phone>,"{""phone"": ""(101) 892-2757""}",profile,profile phone contains (101) 892-2757
+423,<location> location,"{""location"": ""Vatican City""}",profile,Vatican City location
+477,answerted <number> poll,"{""number"": ""1""}",poll,answerted 1 poll
+186,also has <phone> as phone,"{""phone"": ""(771) 171-3243""}",profile,also has (771) 171-3243 as phone
+348,visited <number> pages,"{""number"": ""4""}",view,visited 4 pages
+60,downloaded <file-name> document,"{""file-name"": ""workshop""}",file,downloaded workshop document
+281,surname is <last-name>,"{""last-name"": ""Rodriguez""}",profile,surname is Rodriguez
+138,liked <number> <sentiment> posts,"{""sentiment"": ""positive"", ""number"": ""3""}",like,liked 3 positive posts
+65,liked posts by <mention>,"{""mention"": ""Shawna Potter""}",like,liked posts by Shawna Potter
+92,clicked an ad containing <post-word>,"{""post-word"": ""'big'""}",ad,clicked an ad containing 'big'
+161,participated in event <number> times,"{""number"": ""3""}",event,participated in event 3 times
+445,like of <mention>s post,"{""mention"": ""Clay Arnold'""}",like,like of Clay Arnold's post
+78,liked <mention> post,"{""mention"": ""Dolores Cummings'""}",like,liked Dolores Cummings' post
+322,voted on <number> polls,"{""number"": ""7""}",poll,voted on 7 polls
+258,wrote something <sentiment>,"{""sentiment"": ""positive""}",post,wrote something positive
+252,wrote about <post-word>,"{""post-word"": ""honey""}",post,wrote about honey
+156,first name was <first-name>,"{""first-name"": ""'Lavern'""}",profile,first name was 'Lavern'
+447,post with <number> comments,"{""number"": ""5""}",post,post with 5 comments
+9,clicked on ad about <post-word>,"{""post-word"": ""blackout""}",ad,clicked on ad about blackout
+70,rated page containing <post-word>,"{""post-word"": ""'abomination'""}",rate,rated page containing 'abomination'
+476,attended <event>,"{""event"": ""'Happy Hippopotamuss'18'""}",event,attended 'Happy Hippopotamuss'18'
+35,replied to <sentiment> post,"{""sentiment"": ""negative""}",reply,replied to negative post
+129,"wrote a post containing <post-word>
+","{""post-word"": ""'big'""}",post,"wrote a post containing 'big'
+"
+523,left a note on a page <number> times,"{""number"": ""3""}",note,left a note on a page 3 times
+10,also liked post <number> times,"{""number"": ""9""}",like,also liked post 9 times
+120,replied to post about <post-word>,"{""post-word"": ""blackout""}",reply,replied to post about blackout
+234,work at <company>,"{""company"": ""Abbott Laboratories""}",profile,work at Abbott Laboratories
+141,bio contains <post-word>,"{""post-word"": ""'beyond'""}",profile,bio contains 'beyond'
+93, left a note with <post-word>,"{""post-word"": ""'convulsion'""}",note, left a note with 'convulsion'
+358,clicked on ad by <company>,"{""company"": ""'AC Lens'""}",ad,clicked on ad by 'AC Lens'
+305,<position> position,"{""position"": ""Administrative Generalist/Specialist""}",profile,Administrative Generalist/Specialist position
+162,their website is <website>,"{""website"": ""'free.fr'""}",profile,their website is 'free.fr'
+72,not <enjoyment> the event,"{""enjoyment"": ""enjoyed""}",profile,not enjoyed the event
+135,left a note on page containing <post-word>,"{""post-word"": ""'easy'""}",note,left a note on page containing 'easy'
+416,from <location>,"{""location"": ""Vatican city""}",profile,from Vatican city
+127,rated the page <number> times?,"{""number"": ""3""}",rate,rated the page 3 times?
+47,never participated in poll,{},poll,never participated in poll
+486,wrote a post about <mention>,"{""mention"": ""Steven Owens""}",post,wrote a post about Steven Owens
+71,phone <phone>,"{""phone"": ""(331) 408-2679""}",profile,phone (331) 408-2679
+276,<last-name> as the last name,"{""last-name"": ""Rodriguez""}",profile,Rodriguez as the last name
+165,all of them from <location>,"{""location"": ""'Greece'""}",profile,all of them from 'Greece'
+223,voted <poll-answer>,"{""poll-answer"": ""No""}",poll,voted No
+188,made reply to <mention>,"{""mention"": ""Stacy Vaughn""}",reply,made reply to Stacy Vaughn
+203,answered at least <number> polls,"{""number"": ""three""}",poll,answered at least three polls
+145,bio containing word <post-word>,"{""post-word"": ""'beyond'""}",profile,bio containing word 'beyond'
+183,liked a post that can be said to be a <sentiment> one,"{""sentiment"": ""positive""}",like,liked a post that can be said to be a positive one
+17,downloaded <page-type> type page file,"{""page-type"": ""'exhibitor'""}",file,downloaded 'exhibitor' type page file
+420,from <location>,"{""location"": ""Vatican City""}",profile,from Vatican City
+151,first name = <first-name>,"{""first-name"": ""'Lavern'""}",profile,first name = 'Lavern'
+325,first name equals <first-name>,"{""first-name"": ""Nancie""}",profile,first name equals Nancie
