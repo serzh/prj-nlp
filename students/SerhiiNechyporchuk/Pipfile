@@ -30,6 +30,7 @@ langdetect = "*"
 tqdm = "*"
 tokenize-uk = "*"
 gensim = "*"
+python-rocksdb = "*"
 
 
 [requires]
