@@ -170,7 +170,6 @@
 269,commented estelle jimenez's post,"{""mention"":""estelle jimenez""}",reply,commented estelle jimenez's post
 500,posted <number> messages,"{""number"": ""2""}",post,posted 2 messages
 455,set position to <position>,"{""position"": ""Affordable Housing Specialist""}",profile,set position to Affordable Housing Specialist
-139,created a post on page containing <post-word>,"{""post-word"": ""'easy'""}",post,created a post on page containing 'easy'
 493,visited page contains <post-word>,"{""post-word"": ""'adsorbable'""}",view,visited page contains 'adsorbable'
 311,<position>s,"{""position"": ""Administrative Generalist/Specialist""}",profile,Administrative Generalist/Specialists
 357,linked <social-network> to their profile,"{""social-network"": ""facebook""}",profile,linked facebook to their profile
@@ -213,6 +212,9 @@
 242,wrote post that got <number> comments ,"{""number"": ""7""}",post,wrote post that got 7 comments 
 33,n't enjoy the event,{},profile,n't enjoy the event
 290,attendees posted at least one post with <sentiment> sentiment,"{""sentiment"": ""negative""}",post,attendees posted at least one post with negative sentiment
+600,attendees posted at most one post with <sentiment> sentiment,"{""sentiment"": ""negative""}",post,attendees posted at most one post with negative sentiment
+601,attendees posted less than one post with <sentiment> sentiment,"{""sentiment"": ""negative""}",post,attendees posted less than one post with negative sentiment
+602,attendees posted more than one post with <sentiment> sentiment,"{""sentiment"": ""negative""}",post,attendees posted more than one post with negative sentiment
 278,n't use the app,{},session,n't use the app
 21,rated page <number> time,"{""number"": ""4""}",rate,rated page 4 time
 231,attended Deaply Seals<number><number>,"{""number"": ""5""}",event,attended Deaply Seals55
@@ -221,7 +223,6 @@
 330,<location> as location,"{""location"": ""Samoa""}",profile,Samoa as location
 461,rated page containing <post-word>,"{""post-word"": ""'coastal'""}",rate,rated page containing 'coastal'
 210,attended the event 'Deeply Seals<number><number>,"{""number"": ""5'""}",event,attended the event 'Deeply Seals5'5'
-196,"the ""<post-word>"" word in their writings","{""post-word"": ""rare""}",post,"the ""rare"" word in their writings"
 131,rated the page <number> times,"{""number"": ""three""}",rate,rated the page three times
 167,no downloads,{},file,no downloads
 370,posted about <mention>,"{""mention"": ""Dorothy Larson""}",post,posted about Dorothy Larson
