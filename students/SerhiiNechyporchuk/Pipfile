@@ -35,6 +35,8 @@ sklearn-crfsuite = "*"
 python-crfsuite = "*"
 flask = "*"
 jupyterthemes = "*"
+keras = "*"
+tensorflow = "*"
 
 
 [requires]
