@@ -1,0 +1,375 @@
+,final,replacements,label
+253,posted about honey,"{""post-word"": ""honey""}",post
+284,answered 'No' to a poll,"{""poll-answer"": ""'No'""}",poll
+79,replied to Hoe Griffith's post,"{""mention"": ""Hoe Griffith'""}",reply
+511,created a not on page contains 'coastal',"{""post-word"": ""'coastal'""}",note
+433,5 likes of posts,"{""number"": ""5""}",like
+220,answered No in any poll,"{""poll-answer"": ""No""}",poll
+114,the word 'captive' in bio,"{""post-word"": ""'captive'""}",profile
+180,"who's bio contains ""biplane""","{""post-word"": ""biplane""}",profile
+430,5 post likes,"{""number"": ""5""}",like
+77,rated page with word 'abomination' in text,"{""post-word"": ""'abomination'""}",rate
+315,first name is Nancie,"{""first-name"": ""Nancie""}",profile
+504,clicked on ads 2 times,"{""number"": ""2""}",ad
+318,Nancie as the first name,"{""first-name"": ""Nancie""}",profile
+432,clicked on 'escapist' ad,"{""post-word"": ""'escapist'""}",ad
+134,liked a positive post 3 times,"{""sentiment"": ""positive"", ""number"": ""3""}",like
+324,left a vote on 7 polls,"{""number"": ""7""}",poll
+137,created a post with word 'easy' in text,"{""post-word"": ""'easy'""}",post
+76,liked post written by Dolores Cummings,"{""mention"": ""Dolores Cummings""}",like
+454,4 event attendances,"{""number"": ""4""}",event
+84,9 times left a note on a page,"{""number"": ""9""}",note
+481,clicked on ad by 'Acsis Inc.',"{""company"": ""'Acsis Inc.'""}",ad
+417,replied to posts about 'concussion',"{""post-word"": ""'concussion'""}",reply
+45,clicked on ad from 'Ablitech Co',"{""company"": ""'Ablitech Co'""}",ad
+413,linked google+ account,"{""social-network"": ""google""}",profile
+329,replied to a post by Kristin Hansen,"{""mention"": ""Kristin Hansen""}",reply
+509,connected Google +,{},profile
+321,saved a note on page containing the word 'concussion',"{""post-word"": ""'concussion'""}",note
+13,liked it 9 times,"{""number"": ""9""}",like
+299,clicked an ad 1 time,"{""number"": ""1""}",ad
+32,downloaed a file from exhibitor page,"{""page-type"": ""exhibitor""}",file
+25,in poll answered <poll-answered>,"{""poll-answer"": ""yes""}",poll
+18,rated any page four times,"{""number"": ""four""}",rate
+346,attended 0 events,"{""number"": ""0""}",event
+501,clicked on 2 ads,"{""number"": ""2""}",ad
+221,liked Caleb Ramirez's content,"{""mention"": ""Caleb Ramirez'""}",like
+469,posted something liked 2 times,"{""number"": ""2""}",post
+492,posted a content with 8 likes,"{""number"": ""8""}",post
+362,mentioned Dorothy Larson in post,"{""mention"": ""Dorothy Larson""}",post
+364,posts about Dorothy Larson,"{""mention"": ""Dorothy Larson""}",post
+217,voted No in any poll,"{""poll-answer"": ""No""}",poll
+442,liked Clay Arnold's post,"{""mention"": ""Clay Arnold'""}",like
+366,clicks on ads published by 'AC Lens',"{""company"": ""'AC Lens'""}",ad
+87,downloaded 5 files,"{""number"": ""5""}",file
+262,wrote something about honey,"{""post-word"": ""honey""}",post
+411,n't like the event,{},profile
+310,left at least one like on a post with the word 'pragmatic',"{""post-word"": ""'pragmatic'""}",like
+150,liked posts about 'escapist',"{""post-word"": ""'escapist'""}",like
+58,phone (290) 448-8241,"{""phone"": ""(290) 448-8241""}",profile
+89,clicked on an ad with the word 'big',"{""post-word"": ""'big'""}",ad
+434,clicks on ad which mentioned 'escapist',"{""post-word"": ""'escapist'""}",ad
+74,n't impressed by the event,{},profile
+279,made 7 file downloads,"{""number"": ""7""}",file
+502,rated with 2 stars speaker's page,"{""number"": ""2"", ""page-type"": ""speaker'""}",rate
+68,liked at least one post by Shawna Potter,"{""mention"": ""Shawna Potter"",""number"":""one""}",like
+15,rated page at least 4 times,"{""number"": ""4""}",rate
+56,'captive' in their bio,"{""post-word"": ""'captive'""}",profile
+301,phone number equals (101) 892-2757,"{""phone"": ""(101) 892-2757""}",profile
+516,rated page with 2 stars,"{""number"": ""2""}",rate
+528,bio contains 8,"{""number"": ""8""}",profile
+388,session view,"{""page-type"": ""session""}",view
+166,clicked five times on the ad on exhibitor page,"{""page-type"": ""exhibitor"",""number"":""five""}",ad
+98,liked post about biplane,"{""post-word"": ""biplane""}",like
+136,made 3 likes on positive posts,"{""sentiment"": ""positive"", ""number"": ""3""}",like
+260,liked a post with the keyword big,"{""post-word"": ""big""}",like
+143,replied to post written by Andy Chandler,"{""mention"": ""Andy Chandler""}",reply
+202,answered 'no' for a poll,"{""poll-answer"":""'no'""}",poll
+293,clicked on an ad 1 time,"{""number"": ""1""}",ad
+235,rated a page at least one time ,{},rate
+450,wrote post with 5 comments,"{""number"": ""5""}",post
+313,profile details contain Administrative Generalist/Specialist position for the position,"{""position"": ""Administrative Generalist/Specialist""}",profile
+128,"replied to the post that contains word 'blackout""","{""post-word"": ""'blackout""}",reply
+272,name is vida,"{""first-name"":""vida""}",profile
+189,(344) 842-7718 phone,"{""phone"": ""(344) 842-7718""}",profile
+515,viewed sponsor page,"{""page-type"": ""sponsor""}",view
+187,"post ""rare""","{""post-word"": ""rare""}",post
+354,downloaded a file with name 'presentation.pptx',"{""file-name"": ""'presentation.pptx'""}",file
+375,answered 'Yes' in poll,"{""poll-answer"": ""'Yes'""}",poll
+53,liked Caleb Ramirez's post,"{""mention"": ""Caleb Ramirez'""}",like
+380,clicked on file 9 times,"{""number"": ""9""}",file
+80,liked post containing word 'coastal',"{""post-word"": ""'coastal'""}",like
+23,downloaded a file from exhibitor page,"{""page-type"": ""exhibitor""}",file
+427,liked post 5 times,"{""number"": ""5""}",like
+121,rated page 3 times,"{""number"": ""3""}",rate
+426,working at Abercrombie & Fitch,"{""company"": ""Abercrombie & Fitch""}",profile
+267,phone number is <phone>,"{""number"": ""(939) 771-3645""}",profile
+115,liked the post nine times,"{""number"": ""nine""}",like
+29,downloaded any file from exhibitor page,"{""page-type"": ""exhibitor""}",file
+316,participated in 7 polls,"{""number"": ""7""}",poll
+470,wrote post which was liked 2 times,"{""number"": ""2""}",post
+356,made a download of a file which contains 'presentation.pptx' in the name,"{""file-name"": ""'presentation.pptx'""}",file
+525,liked a post by Philip,{},like
+251,wrote posts that contain the keyword honey,"{""post-word"": ""honey""}",post
+49,bio has 'captive' in it,"{""post-word"": ""'captive'""}",profile
+172,"bio having ""biplane""","{""post-word"": ""biplane""}",profile
+144,viewed page 2 times,"{""number"": ""2""}",view
+177,liked a positively colored sentiment,"{""sentiment"": ""positive""}",like
+266,the phone number (939) 771-3645,"{""phone"": ""(939) 771-3645""}",profile
+46,"clicked on ad from 'Ablitech, Inc.'","{""company"": ""'Ablitech, Inc.'""}",ad
+295,interacted with an ad 1 time,"{""number"": ""1""}",ad
+320,left a note on a page that contains 'concussion',"{""post-word"": ""'concussion'""}",note
+446,viewed page which contains 'beyond',"{""post-word"": ""'beyond'""}",view
+513,Google + account,{},profile
+326,added a note to page with the word 'concussion',"{""post-word"": ""'concussion'""}",note
+300,Administrative Generalist/Specialist in the position field,"{""position"": ""Administrative Generalist/Specialist""}",profile
+514,post with 9 replies,"{""number"": ""9""}",reply
+192,"post has ""rare""","{""post-word"": ""rare""}",post
+66,downloaded a file from page with 'sponsor' type,"{""page-type"": ""'sponsor'""}",file
+317,saved a note for a page that contains 'concussion',"{""post-word"": ""'concussion'""}",note
+459,attended even 5 times,"{""number"": ""5""}",event
+100,"""big"" in bio","{""post-word"": ""big""}",profile
+215,answered No in poll,"{""poll-answer"": ""No""}",poll
+230,left a comment for the post with 'biplane',"{""post-word"": ""'biplane'""}",reply
+212,viewed a page two times,{},view
+373,clicked on ad created by 'AC Lens',"{""company"": ""'AC Lens'""}",ad
+495,name is Petra,"{""first-name"": ""Petra""}",profile
+487,clicked on advertisement by 'Acisi Inc.',{},ad
+406,negative sentiment towards event,"{""sentiment"": ""negative""}",event
+332,clicked on 1 add,"{""number"": ""1""}",ad
+314,(101) 892-2757 for the phone number,"{""phone"": ""(101) 892-2757""}",profile
+69,downloaded file from 'sponsor' type page,"{""page-type"": ""'sponsor'""}",file
+507,leave a rate on page with 'pragmatic',"{""post-word"": ""'pragmatic'""}",rate
+105,"like posts with ""biplane"" in it","{""post-word"": ""biplane""}",like
+344,answer to a poll equals 'No',"{""poll-answer"": ""'No'""}",poll
+403,connected google+,"{""social-network"": ""google""}",profile
+237,wrote a post that got 7 replies,"{""number"": ""7""}",post
+355,connected facebook,"{""social-network"": ""facebook""}",profile
+351,left 3 notes,"{""number"": ""3""}",note
+527,clicked on an ad 4 times,"{""number"": ""4""}",ad
+133,wrote a note on page with word 'easy',"{""post-word"": ""'easy'""}",note
+452,work as Affordable Housting Specialist,{},profile
+24,rated page 4 or more times,"{""number"": ""4""}",rate
+27,rated page 4 times,"{""number"": ""4""}",rate
+232,rated page with 0 stars,"{""number"": ""0""}",rate
+219,replied to the post contains 'biplane',"{""post-word"": ""'biplane'""}",reply
+5,clickd on ad with text 'blackout' in it,"{""post-word"": ""'blackout'""}",ad
+387,'Yes' answer in quick poll,"{""poll-answer"": ""'Yes'""}",poll
+407,positive post,"{""sentiment"": ""positive""}",post
+236,viewed a page 5 times,"{""number"": ""5""}",view
+0,wrote posts mentioning Stacy Vaughn,"{""mention"": ""Stacy Vaughn""}",post
+312,liked a post containing the word 'pragmatic',"{""post-word"": ""'pragmatic'""}",like
+20,downloaded a file from page with 'exhibitor' type,"{""page-type"": ""'exhibitor'""}",file
+44,wrote a post with positive sentiment,"{""sentiment"": ""positive""}",post
+394,works ar Abercrombie & Fitch,"{""company"": ""Abercrombie & Fitch""}",profile
+201,downloaded a file five times,"{""number"":""five""}",file
+246,rgarcia@optonline.net email,"{""email"": ""rgarcia@optonline.net""}",profile
+158,from 'Greece',"{""location"": ""'Greece'""}",profile
+287,post has negative sentiment,"{""sentiment"": ""negative""}",post
+6,wrote a post about Stacy Vaughn,"{""mention"": ""Stacy Vaughn""}",post
+392,rated exhibitor's page,"{""page-type"": ""exhibitor'""}",rate
+464,post liked 2 times,"{""number"": ""2""}",post
+55,any positive post,"{""sentiment"": ""positive""}",post
+382,session page views,"{""page-type"": ""session""}",view
+38,first name Marjorie,"{""first-name"": ""Marjorie""}",profile
+303,the phone number (101) 892-2757,"{""phone"": ""(101) 892-2757""}",profile
+248,converted on the activision sponsored post,"{""page-type"": ""sponsor""}",ad
+229, voted No,"{""poll-answer"": ""No""}",poll
+51,rated speaker page,"{""page-type"": ""speaker""}",rate
+99,replied to post by Sherman Cooper,"{""mention"": ""Sherman Cooper""}",reply
+395,exhibitor's page rating,"{""page-type"": ""exhibitor'""}",rate
+119,first name 'Chante',"{""first-name"": ""'Chante'""}",profile
+42,clicked ablitech ad,"{""company"": ""ablitech""}",ad
+422,replied to post with 'concussion' in its text,"{""post-word"": ""'concussion'""}",reply
+64,White as a last name,"{""last-name"": ""White""}",profile
+90, commented with a word 'convulsion',"{""post-word"": ""'convulsion'""}",reply
+16,answered 'Yes' in a poll,"{""poll-answer"": ""'Yes'""}",poll
+520,posted a content with 9 comments,"{""number"": ""9""}",post
+524,downloaded a file named workshop.doc,"{""file-name"": ""workshop.doc""}",file
+473,left rating on page with 'exhibitor' type,"{""page-type"": ""'exhibitor'""}",rate
+269,commented estelle jimenez's post,"{""mention"":""estelle jimenez""}",reply
+500,posted 2 messages,"{""number"": ""2""}",post
+455,set position to Affordable Housing Specialist,"{""position"": ""Affordable Housing Specialist""}",profile
+493,visited page contains 'adsorbable',"{""post-word"": ""'adsorbable'""}",view
+311,Administrative Generalist/Specialists,"{""position"": ""Administrative Generalist/Specialist""}",profile
+357,linked facebook to their profile,"{""social-network"": ""facebook""}",profile
+164,website set in their profile as 'free.fr',"{""website"": ""'free.fr'""}",profile
+518,viewed sponsor,"{""page-type"": ""sponsor""}",view
+359,answered 'Yes' in quick poll,"{""poll-answer"": ""'Yes'""}",poll
+333,Samoa in profile details ,"{""location"": ""Samoa""}",profile
+435,5 posts likes,"{""number"": ""5""}",like
+205,at least one answer was 'no',"{""number"":""one"",""poll-answer"":""'no'""}",poll
+122,wrote a post that contains 'big'?,"{""post-word"": ""'big'""}",post
+173,attended once,{},event
+506,voted 4 times,"{""number"": ""4""}",poll
+483,participated in a polls 4 times,"{""number"": ""4""}",poll
+149,'bandcamp.com' website,"{""website"": ""'bandcamp.com'""}",profile
+296,voted on a poll with the question 'Do you sleep with your sheets tucked in?',"{""poll-question"": ""'Do you sleep with your sheets tucked in""}",poll
+331,left a comment on a post by Kristin Hansen,"{""mention"": ""Kristin Hansen""}",reply
+345,viewed 4 pages,"{""number"": ""4""}",view
+226,liked message by Caleb Ramirez,"{""mention"": ""Caleb Ramirez""}",like
+41,wrote positive post,"{""sentiment"": ""positive""}",post
+243,rgarcia@optonline.net,"{""email"": ""rgarcia@optonline.net""}",profile
+204,answered three polls,"{""number"": ""three""}",poll
+436,clicked on ad containing 'escapist',"{""post-word"": ""'escapist'""}",ad
+8,clickd on add that contained 'blackout',"{""post-word"": ""'blackout'""}",ad
+443,post containing 5 replies,"{""number"": ""5""}",post
+463,rating for page about 'coastal',"{""post-word"": ""'coastal'""}",rate
+222,commented to the post about 'biplane',"{""post-word"": ""'biplane'""}",reply
+261,saw any page 5 times,"{""number"": ""5""}",view
+117,liked post 9 times,"{""number"": ""9""}",like
+404,written positive posts,"{""sentiment"": ""positive""}",post
+244,deviantart.com as their website,"{""website"": ""deviantart.com""}",profile
+408,connected google+ account,"{""social-network"": ""google""}",profile
+389,left a note on page with 'speaker' type,"{""page-type"": ""'speaker'""}",note
+398,exhibitor rating,"{""page-type"": ""exhibitor""}",rate
+306,liked a post containing 'pragmatic',"{""post-word"": ""'pragmatic'""}",like
+439,wrote post with 5 replies,"{""number"": ""5""}",post
+171,0 downloads,"{""number"": ""0""}",file
+521,opened sponsor page,"{""page-type"": ""sponsor""}",view
+289,responded 'No' to a poll,"{""poll-answer"": ""'No'""}",poll
+154,rated 'session' pages,"{""page-type"": ""'session'""}",rate
+242,wrote post that got 7 comments ,"{""number"": ""7""}",post
+33,n't enjoy the event,{},profile
+290,attendees posted at least one post with negative sentiment,"{""sentiment"": ""negative""}",post
+600,attendees posted at most one post with negative sentiment,"{""sentiment"": ""negative""}",post
+601,attendees posted less than two posts with negative sentiment,"{""sentiment"": ""negative""}",post
+602,attendees posted more than one posts with negative sentiment,"{""sentiment"": ""negative""}",post
+603,attendees posted one or more posts with negative sentiment,"{""sentiment"": ""negative""}",post
+604,attendees posted two or less posts with negative sentiment,"{""sentiment"": ""negative""}",post
+278,n't use the app,{},session
+21,rated page 4 time,"{""number"": ""4""}",rate
+231,attended Deaply Seals55,"{""number"": ""5""}",event
+102,replied to Sherman Cooper,"{""mention"": ""Sherman Cooper""}",reply
+82,replied to post written by Hoe Hoe Griffith's,"{""mention"": ""Hoe Griffith'""}",reply
+330,Samoa as location,"{""location"": ""Samoa""}",profile
+461,rated page containing 'coastal',"{""post-word"": ""'coastal'""}",rate
+210,attended the event 'Deeply Seals5'5',"{""number"": ""5'""}",event
+131,rated the page three times,"{""number"": ""three""}",rate
+167,no downloads,{},file
+370,posted about Dorothy Larson,"{""mention"": ""Dorothy Larson""}",post
+522,liked a post by Philip Stephens,"{""mention"": ""Philip Stephens""}",like
+238,replied to a post with negative sentiment,"{""sentiment"": ""negative""}",reply
+240,commented negatively,"{""sentiment"": ""negative""}",reply
+360,wrote post mentioning Dorothy Larson,"{""mention"": ""Dorothy Larson""}",post
+431,Abercrombie & Fitch set as company,"{""company"": ""Abercrombie & Fitch""}",profile
+256,downloaded something 3 times,"{""number"": ""3""}",file
+462,wrote post with 2 likes,"{""number"": ""2""}",post
+59,downloaded 'workshop.doc' file,"{""file-name"": ""'workshop.doc'""}",file
+132,wrote post that contains 'big',"{""post-word"": ""'big'""}",post
+207,rated a page that contains 'gargoyle' at least nine times,"{""post-word"": ""'gargoyle'"", ""poll-answer"": ""No"",""number"":""nine""}",rate
+247,clicked on the activision sponsored post,"{""page-type"": ""sponsor""}",ad
+48,never answered yes,"{""poll-answer"": ""yes""}",poll
+179,liked a post with a positive sentiment,"{""sentiment"": ""positive""}",like
+126,replied on post containing 'blackout',"{""post-word"": ""'blackout'""}",reply
+385,participated in poll answering 'Yes',"{""poll-answer"": ""'Yes'""}",poll
+335,attendees from Samoa,"{""location"": ""Samoa""}",profile
+34,name Marjorie,"{""first-name"": ""Marjorie""}",profile
+142,viewed 2 pages,"{""number"": ""2""}",view
+419,Vatican City set as location,"{""location"": ""Vatican City""}",profile
+526,downloaded workshop.doc,"{""file-name"": ""workshop.doc""}",file
+160,attended event 3 times,"{""number"": ""3""}",event
+61,viewed page  5 times,"{""number"": ""5""}",view
+471,attended 'Happy Hippopotamuss'18',"{""event"": ""'Happy Hippopotamuss'18'""}",event
+259,clicked a sponsored post 7 times,"{""number"": ""7""}",ad
+383,'Yes' quick poll answers,"{""poll-answer"": ""'Yes'""}",poll
+297,answered 'Do you sleep with your sheets tucked in?' in a poll,"{""poll-question"": ""'Do you sleep with your sheets tucked in""}",poll
+286,liked a post with positive sentiment,"{""sentiment"": ""positive""}",like
+176,attended before,{},event
+104,liked some post on biplanes,"{""post-word"": ""biplane""}",like
+480,voted in single poll,{},poll
+73,rated page with 'abomination' in text,"{""post-word"": ""'abomination'""}",rate
+7,at least nine likes,"{""number"": ""nine""}",like
+250,a post that was liked 7 times,"{""number"": ""7""}",post
+67,last name White,"{""last-name"": ""White""}",profile
+96,left commented about 'convulsion',"{""post-word"": ""'convulsion'""}",reply
+190,reply to Stacy Vaughn,"{""mention"": ""Stacy Vaughn""}",reply
+458,work at Affordable Housing Specialist position,"{""position"": ""Affordable Housing Specialist""}",profile
+418,replied to post with 'concussion',"{""post-word"": ""'concussion'""}",reply
+519,rated page with more than 2 stars,"{""number"": ""2""}",rate
+3,wrote at least one post with mention of Stacy Vaughn,"{""mention"": ""Stacy Vaughn""}",post
+14,clicked on ad that contains 'blackout',"{""post-word"": ""'blackout'""}",ad
+155,gave rating to 'session' pages,"{""page-type"": ""'session'""}",rate
+218,liked Caleb Ramirez's post,"{""mention"": ""Caleb Ramirez'""}",like
+191,phone number (344) 842-7718,"{""phone"": ""(344) 842-7718""}",profile
+43,participated in poll and answered yes,"{""poll-answer"": ""yes""}",poll
+174,liked a positive post,"{""sentiment"": ""positive""}",like
+350,viewed a page with 'biplane',"{""post-word"": ""'biplane'""}",view
+175,'biplane' in bio,"{""post-word"": ""'biplane'""}",profile
+168,clicked five times on the ad on the exhibitor page,"{""page-type"": ""exhibitor"",""number"":""five""}",ad
+11,wrote post with Stacy Vaughn's mention,"{""mention"": ""Stacy Vaughn'""}",post
+208,liked a page nine time and the page contains 'gargoyle',"{""number"":""nine"",""post-word"":""'gargoyle'""}",rate
+62,never participated in polls,{},poll
+484,participated in 4 polls,"{""number"": ""4""}",poll
+199,answered a poll 'no' three times,"{""poll-answer"":""'no'"",""number"":""three""}",poll
+170,users clicked 5 times ad exhibitor page,"{""number"": ""5"", ""page-type"": ""exhibitor""}",ad
+328,took part in 7 polls,"{""number"": ""7""}",poll
+308,phone number is (101) 892-2757,"{""phone"": ""(101) 892-2757""}",profile
+372,wrote post with mention of Dorothy Larson,"{""mention"": ""Dorothy Larson""}",post
+123,wrote the post about 'big',"{""post-word"": ""'big'""}",post
+401,rated an exhibitor,"{""page-type"": ""exhibitor""}",rate
+197,number is (344) 842-7718,"{""phone"": ""(344) 842-7718""}",profile
+213, 'ow.ly' as website,"{""website"": ""'ow.ly'""}",profile
+214,viewed at least two pages,{},view
+277,Rodriguez for the last name,"{""last-name"": ""Rodriguez""}",profile
+505,rated page contains 'pragmatic',"{""post-word"": ""'pragmatic'""}",rate
+124,replied to the post that contains word 'blackout'?,"{""post-word"": ""'blackout'""}",reply
+182,attended an event once,{},event
+28,participated in poll and answered yes,"{""poll-answer"": ""yes""}",poll
+453,Affordable Housing Specialist position,"{""position"": ""Affordable Housing Specialist""}",profile
+153,first name is 'Lavern',"{""first-name"": ""'Lavern'""}",profile
+37,downloaded exhibitor file,"{""page-type"": ""exhibitor""}",file
+148,make a reply to the post written by Andy Chandler,"{""mention"": ""Andy Chandler""}",reply
+496,opened page with 'adsorbable',"{""post-word"": ""'adsorbable'""}",view
+255,downloaded a file 3 times,"{""number"": ""3""}",file
+400,from Abercrombie & Fitch,"{""company"": ""Abercrombie & Fitch""}",profile
+451,attended event 4 times,"{""number"": ""4""}",event
+396,note on speaker's page,"{""page-type"": ""speaker'""}",note
+381,checked session page,"{""page-type"": ""session""}",view
+291,participated in a poll with the question 'Do you sleep with your sheets tucked in?',"{""poll-question"": ""'Do you sleep with your sheets tucked in""}",poll
+288,liked someone else's post with positive sentiment,"{""sentiment"": ""positive""}",like
+107,replied to Cooper,"{""mention"": ""Cooper""}",reply
+405,n't enjoyed the event,"{""enjoyment"": ""enjoyed""}",profile
+1,liked any post 9 times,"{""number"": ""9""}",like
+494,called Petra,"{""first-name"": ""Petra""}",profile
+488,took 4 polls,"{""number"": ""4""}",poll
+83,liked post with word 'coastal',"{""post-word"": ""'coastal'""}",like
+294,gave a rating to a page 7 times,"{""number"": ""7""}",rate
+40,named Marjorie,"{""first-name"": ""Marjorie""}",profile
+75,clicked on any ad 6 times,"{""number"": ""6""}",ad
+254,works at abbott laboratories ,{},profile
+448,view of page which mentioned 'beyond',"{""post-word"": ""'beyond'""}",view
+415,n't really like the event,{},profile
+367,participated in quick poll answering 'Yes',"{""poll-answer"": ""'Yes'""}",poll
+85,left 9 notes on a page,"{""number"": ""9""}",note
+347,profile phone contains (101) 892-2757,"{""phone"": ""(101) 892-2757""}",profile
+423,Vatican City location,"{""location"": ""Vatican City""}",profile
+477,answerted 1 poll,"{""number"": ""1""}",poll
+186,also has (771) 171-3243 as phone,"{""phone"": ""(771) 171-3243""}",profile
+348,visited 4 pages,"{""number"": ""4""}",view
+60,downloaded workshop document,"{""file-name"": ""workshop""}",file
+281,surname is Rodriguez,"{""last-name"": ""Rodriguez""}",profile
+138,liked 3 positive posts,"{""sentiment"": ""positive"", ""number"": ""3""}",like
+65,liked posts by Shawna Potter,"{""mention"": ""Shawna Potter""}",like
+92,clicked an ad containing 'big',"{""post-word"": ""'big'""}",ad
+161,participated in event 3 times,"{""number"": ""3""}",event
+445,like of Clay Arnold's post,"{""mention"": ""Clay Arnold'""}",like
+78,liked Dolores Cummings' post,"{""mention"": ""Dolores Cummings'""}",like
+322,voted on 7 polls,"{""number"": ""7""}",poll
+258,wrote something positive,"{""sentiment"": ""positive""}",post
+252,wrote about honey,"{""post-word"": ""honey""}",post
+156,first name was 'Lavern',"{""first-name"": ""'Lavern'""}",profile
+447,post with 5 comments,"{""number"": ""5""}",post
+9,clicked on ad about blackout,"{""post-word"": ""blackout""}",ad
+70,rated page containing 'abomination',"{""post-word"": ""'abomination'""}",rate
+476,attended 'Happy Hippopotamuss'18',"{""event"": ""'Happy Hippopotamuss'18'""}",event
+35,replied to negative post,"{""sentiment"": ""negative""}",reply
+129,"wrote a post containing 'big'
+","{""post-word"": ""'big'""}",post
+523,left a note on a page 3 times,"{""number"": ""3""}",note
+10,also liked post 9 times,"{""number"": ""9""}",like
+120,replied to post about blackout,"{""post-word"": ""blackout""}",reply
+234,work at Abbott Laboratories,"{""company"": ""Abbott Laboratories""}",profile
+141,bio contains 'beyond',"{""post-word"": ""'beyond'""}",profile
+93, left a note with 'convulsion',"{""post-word"": ""'convulsion'""}",note
+358,clicked on ad by 'AC Lens',"{""company"": ""'AC Lens'""}",ad
+305,Administrative Generalist/Specialist position,"{""position"": ""Administrative Generalist/Specialist""}",profile
+162,their website is 'free.fr',"{""website"": ""'free.fr'""}",profile
+72,not enjoyed the event,"{""enjoyment"": ""enjoyed""}",profile
+135,left a note on page containing 'easy',"{""post-word"": ""'easy'""}",note
+416,from Vatican city,"{""location"": ""Vatican city""}",profile
+127,rated the page 3 times?,"{""number"": ""3""}",rate
+47,never participated in poll,{},poll
+486,wrote a post about Steven Owens,"{""mention"": ""Steven Owens""}",post
+71,phone (331) 408-2679,"{""phone"": ""(331) 408-2679""}",profile
+276,Rodriguez as the last name,"{""last-name"": ""Rodriguez""}",profile
+165,all of them from 'Greece',"{""location"": ""'Greece'""}",profile
+223,voted No,"{""poll-answer"": ""No""}",poll
+188,made reply to Stacy Vaughn,"{""mention"": ""Stacy Vaughn""}",reply
+203,answered at least three polls,"{""number"": ""three""}",poll
+145,bio containing word 'beyond',"{""post-word"": ""'beyond'""}",profile
+183,liked a post that can be said to be a positive one,"{""sentiment"": ""positive""}",like
+17,downloaded 'exhibitor' type page file,"{""page-type"": ""'exhibitor'""}",file
+420,from Vatican City,"{""location"": ""Vatican City""}",profile
+151,first name = 'Lavern',"{""first-name"": ""'Lavern'""}",profile
+325,first name equals Nancie,"{""first-name"": ""Nancie""}",profile

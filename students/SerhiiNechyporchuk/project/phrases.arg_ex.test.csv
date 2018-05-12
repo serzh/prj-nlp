@@ -1,161 +1,160 @@
-,phrase,replacements,label,final
-530,clicked on <number> ads,"{""number"": ""4""}",ad,clicked on 4 ads
-109,<first-name> as first name,"{""first-name"": ""Chante""}",profile,Chante as first name
-81,left a note on page <number> times,"{""number"": ""9""}",note,left a note on page 9 times
-206,located in <locatoin>,"{""location"":""North Korea""}",profile,located in <locatoin>
-103,"""<post-word>"" in description","{""post-word"": ""big""}",profile,"""big"" in description"
-52,replied to <sentiment> sentiment post,"{""sentiment"": ""negative""}",reply,replied to negative sentiment post
-474,voted in poll,{},poll,voted in poll
-30,<post-word> in bio,"{""post-word"": ""'captive'""}",profile,'captive' in bio
-412,composed a <sentiment> post,"{""sentiment"": ""positive""}",post,composed a positive post
-529,attended <number> events,"{""number"": ""7""}",event,attended 7 events
-302,liked a post that contains <post-word>,"{""post-word"": ""'pragmatic'""}",like,liked a post that contains 'pragmatic'
-241,bad things to say in a comment ,{},reply,bad things to say in a comment 
-510,took a not on page with <post-word>,"{""post-word"": ""'coastal'""}",note,took a not on page with 'coastal'
-169,<number> downloads,"{""number"":""zero""}",file,zero downloads
-490,viewed page contains <post-word>,"{""post-word"": ""'adsorbable'""}",view,viewed page contains 'adsorbable'
-211,<website> website,"{""website"": ""'ow.ly'""}",profile,'ow.ly' website
-393,left a note on <page-type>s page,"{""page-type"": ""speaker'""}",note,left a note on speaker's page
-227,left a reply for the post about <post-word>,"{""post-word"": ""'biplane'""}",reply,left a reply for the post about 'biplane'
-438,viewed page with <post-word>,"{""post-word"": ""'beyond'""}",view,viewed page with 'beyond'
-200,answered <number> polls with <poll-answer>,"{""poll-answer"":""'no'"",""number"":""three""}",poll,answered three polls with 'no'
-185,replied to <mention>,"{""mention"": ""Stacy Vaughn""}",reply,replied to Stacy Vaughn
-195,a phone <phone>,"{""phone"": ""(344) 842-7718""}",profile,a phone (344) 842-7718
-377,downloaded a file <number> times,"{""number"": ""9""}",file,downloaded a file 9 times
-424,live in <location>,"{""location"": ""Vatican City""}",profile,live in Vatican City
-399,works at <company>,"{""company"": ""Abercrombie & Fitch""}",profile,works at Abercrombie & Fitch
-379,viewed page with <page-type> type,"{""page-type"": ""'session'""}",view,viewed page with 'session' type
-184,"wrote a post with ""<post-word>""","{""post-word"": ""rare""}",post,"wrote a post with ""rare"""
-54,wrote at least <number> posts,"{""number"": ""4""}",post,wrote at least 4 posts
-414,written post with <sentiment> sentiment,"{""sentiment"": ""positive""}",post,written post with positive sentiment
-57,replied to post with <post-word> in it,"{""post-word"": ""'captive'""}",reply,replied to post with 'captive' in it
-88,a <social-network> account,"{""social-network"": ""linkedin""}",profile,a linkedin account
-116,<first-name> as first name,"{""first-name"": ""'Chante'""}",profile,'Chante' as first name
-263,viewed a page with <post-word> in the content,"{""post-word"": ""big""}",view,viewed a page with big in the content
-86,viewed a page with word <post-word>,"{""post-word"": ""'adsorbable'""}",view,viewed a page with word 'adsorbable'
-363,clicked on <company> ad,"{""company"": ""'AC Lens'""}",ad,clicked on 'AC Lens' ad
-460,wrote post with  <sentiment> sentiment,"{""sentiment"": ""positive""}",post,wrote post with  positive sentiment
-36,<first-name>s,"{""first-name"": ""Marjorie""}",profile,Marjories
-472,participated in poll once,{},poll,participated in poll once
-421,n't like the event,{},profile,n't like the event
-369,voted <poll-answer> in poll,"{""poll-answer"": ""'Yes'""}",poll,voted 'Yes' in poll
-482,mentioned <mention>,"{""mention"": ""Steven Owens""}",post,mentioned Steven Owens
-327,created a note to page containing <post-word>,"{""post-word"": ""'concussion'""}",note,created a note to page containing 'concussion'
-371,choose <poll-answer> in poll,"{""poll-answer"": ""'Yes'""}",poll,choose 'Yes' in poll
-491,a post with <number> likes ,"{""number"": ""8""}",post,a post with 8 likes 
-2,clicked on ad with <post-word> in it,"{""post-word"": ""'blackout'""}",ad,clicked on ad with 'blackout' in it
-12,wrote <mention>s post,"{""mention"": ""Stacy Vaughn'""}",post,wrote Stacy Vaughn's post
-125,mentioned <post-word>,"{""post-word"": ""'big'""}",post,mentioned 'big'
-271,named <first-name>,"{""first-name"":""vida""}",profile,named vida
-508,viewed page with <post-word>,"{""post-word"": ""'adsorbable'""}",view,viewed page with 'adsorbable'
-390,work at <company>,"{""company"": ""Abercrombie & Fitch""}",profile,work at Abercrombie & Fitch
-337,commented on <mention>s post,"{""mention"": ""Kristin Hansen'""}",reply,commented on Kristin Hansen's post
-485,converted on the <company> ad ,"{""company"": ""'Acsis Inc.'""}",profile,converted on the 'Acsis Inc.' ad 
-499,wrote <number> posts,"{""number"": ""2""}",post,wrote 2 posts
-339,viewed a page with <page-type> type,"{""page-type"": ""'speaker'""}",view,viewed a page with 'speaker' type
-94,clicked an ad with a word <post-word>,"{""post-word"": ""'big'""}",ad,clicked an ad with a word 'big'
-193,"post containing ""<post-word>"" word","{""post-word"": ""rare""}",post,"post containing ""rare"" word"
-323,<first-name> as first name,"{""first-name"": ""Nancie""}",profile,Nancie as first name
-319,participated in a poll <number> times,"{""number"": ""7""}",poll,participated in a poll 7 times
-157,liked all posts about <post-word>,"{""post-word"": ""'escapist'""}",like,liked all posts about 'escapist'
-198,downloaded a file <number> times,"{""number"": ""5""}",file,downloaded a file 5 times
-19,participated in poll answered <poll-answer> to any question,"{""poll-answer"": ""yes""}",poll,participated in poll answered yes to any question
-341,visited a page with type <page-type>,"{""page-type"": ""'speaker'""}",view,visited a page with type 'speaker'
-467,rated page mentioning <post-word>,"{""post-word"": ""'coastal'""}",rate,rated page mentioning 'coastal'
-428,clicked on ad with <post-word>,"{""post-word"": ""'escapist'""}",ad,clicked on ad with 'escapist'
-178,exactly <number> attend,"{""number"":""one""}",event,exactly one attend
-97,"""<post-word>"" in their bio","{""post-word"": ""big""}",profile,"""big"" in their bio"
-309,profile details contain the phone number <phone>,"{""phone"": ""(101) 892-2757""}",profile,profile details contain the phone number (101) 892-2757
-489,named <first-name>,"{""first-name"": ""Petra""}",profile,named Petra
-140,replied to <mention>s post,"{""mention"": ""Andy Chandler'""}",reply,replied to Andy Chandler's post
-163,location is <location>,"{""location"": ""'Greece'""}",profile,location is 'Greece'
-181,"a ""<post-word>"" in their profile description","{""post-word"": ""biplane""}",profile,"a ""biplane"" in their profile description"
-349,went to <number> events,"{""number"": ""0""}",event,went to 0 events
-425,reside in <location>,"{""location"": ""Vatican City""}",profile,reside in Vatican City
-113,named <first-name>,"{""first-name"": ""Chante""}",profile,named Chante
-498,<enjoyment> the event,"{""enjoyment"": ""enjoyed""}",profile,enjoyed the event
-441,posts with <number> replies,"{""number"": ""5""}",post,posts with 5 replies
-245,rated with <number> stars ,"{""number"": ""2""}",rate,rated with 2 stars 
-50,participated in no poll,{},poll,participated in no poll
-304,liked a post with the word <post-word>,"{""post-word"": ""'pragmatic'""}",like,liked a post with the word 'pragmatic'
-273,<first-name>,"{""first-name"":""vida""}",profile,vida
-130,replied to post with <post-word> in it,"{""post-word"": ""'blackout'""}",reply,replied to post with 'blackout' in it
-264,viewed a page with <post-word>,"{""post-word"": ""big""}",view,viewed a page with big
-444,view of page with <post-word> in its text,"{""post-word"": ""'beyond'""}",view,view of page with 'beyond' in its text
-374,viewed <page-type> pages,"{""page-type"": ""session""}",view,viewed session pages
-449,liked post written by <mention>,"{""mention"": ""Clay Arnold""}",like,liked post written by Clay Arnold
-512,voted <number> times,"{""number"": ""4""}",poll,voted 4 times
-146,either <position> position,"{""position"": ""Asylum or Immigration Officer""}",profile,either Asylum or Immigration Officer position
-112,first name <first-name>,"{""first-name"": ""Chante""}",profile,first name Chante
-118,<post-word> in the bio,"{""post-word"": ""'captive'""}",profile,'captive' in the bio
-352,visited a page that contains <post-word>,"{""post-word"": ""'biplane'""}",view,visited a page that contains 'biplane'
-466,written post which was liked <number> times,"{""number"": ""2""}",post,written post which was liked 2 times
-437,liked post by <mention>,"{""mention"": ""Clay Arnold""}",like,liked post by Clay Arnold
-292,rated a page <number> times,"{""number"": ""7""}",rate,rated a page 7 times
-265,wrote post that got <number> comments,"{""number"": ""7""}",post,wrote post that got 7 comments
-391,rated page with <page-type> type,"{""page-type"": ""'exhibitor'""}",rate,rated page with 'exhibitor' type
-225,commented with <post-word> to the post ,"{""post-word"": ""'biplane'""}",reply,commented with 'biplane' to the post 
-111,liked the post <number> time,"{""number"": ""9""}",like,liked the post 9 time
-340,wrote a post with <sentiment> sentiment,"{""sentiment"": ""negative""}",post,wrote a post with negative sentiment
-368,wrote post with <mention>s mention,"{""mention"": ""Dorothy Larson'""}",post,wrote post with Dorothy Larson's mention
-283,last name equals <last-name>,"{""last-name"": ""Rodriguez""}",profile,last name equals Rodriguez
-257,wrote a <sentiment> post,"{""sentiment"": ""positive""}",post,wrote a positive post
-409,post with <sentiment> sentiment,"{""sentiment"": ""positive""}",post,post with positive sentiment
-31,n't enjoy event,{},profile,n't enjoy event
-384,<number> file downloads,"{""number"": ""9""}",file,9 file downloads
-270,replying to <mention>'s post ,"{""mention"":""estelle jimenez""}",reply,replying to estelle jimenez's post 
-216,replied to post with <post-word>,"{""post-word"": ""'biplane'""}",reply,replied to post with 'biplane'
-361,choose <poll-answer> answer in poll,"{""poll-answer"": ""'Yes'""}",poll,choose 'Yes' answer in poll
-285,created a post with <sentiment> sentiment,"{""sentiment"": ""negative""}",poll,created a post with negative sentiment
-239,wrote a post with <number> comments,"{""number"": ""7""}",post,wrote a post with 7 comments
-497,posted a message with <number> likes,"{""number"": ""8""}",post,posted a message with 8 likes
-280,downloaded  <number> files from the app,"{""number"": ""7""}",file,downloaded  7 files from the app
-386,viewe sesssion page,{},view,viewe sesssion page
-159,website = <website>,"{""website"": ""'free.fr'""}",profile,website = 'free.fr'
-108,liked the post <number> times,"{""number"": ""9""}",like,liked the post 9 times
-468,rated page with <post-word> word,"{""post-word"": ""'coastal'""}",rate,rated page with 'coastal' word
-26,got file from <page-type> type page,"{""page-type"": ""'exhibitor'""}",file,got file from 'exhibitor' type page
-233,wrote a post mentioning <mention> ,"{""mention"": ""Estelle Jimenez""}",post,wrote a post mentioning Estelle Jimenez 
-517,content with <number> replies,"{""number"": ""9""}",post,content with 9 replies
-440,viewed page mentioning <post-word>,"{""post-word"": ""'beyond'""}",view,viewed page mentioning 'beyond'
-209,the attendee is located in <poll-answer>rth Korea,"{""poll-answer"": ""No""}",profile,the attendee is located in North Korea
-342,added a post with <sentiment> sentiment,"{""sentiment"": ""negative""}",post,added a post with negative sentiment
-402,left a note about <page-type>,"{""page-type"": ""speaker""}",note,left a note about speaker
-39,replied to post with <sentiment> sentiment,"{""sentiment"": ""negative""}",reply,replied to post with negative sentiment
-397,note about <page-type>,"{""page-type"": ""speaker""}",note,note about speaker
-456,wrote post with <sentiment> sentiment,"{""sentiment"": ""positive""}",post,wrote post with positive sentiment
-224,liked post written by <mention>,"{""mention"": ""Caleb Ramirez""}",like,liked post written by Caleb Ramirez
-307,holds the position of <position>,"{""position"": ""Administrative Generalist/Specialist""}",profile,holds the position of Administrative Generalist/Specialist
-429,clicks on ads containing <post-word>,"{""post-word"": ""'escapist'""}",ad,clicks on ads containing 'escapist'
-275,downloaded <number> files,"{""number"": ""7""}",file,downloaded 7 files
-91,a <social-network> connection,"{""social-network"": ""linkedin""}",profile,a linkedin connection
-503,rated <page-type> with <number> stars,"{""number"": ""2"", ""page-type"": ""speaker""}",rate,rated speaker with 2 stars
-95,are connected with <social-network>,"{""social-network"": ""linkedin""}",profile,are connected with linkedin
-22,answered <poll-answered> in poll,"{""poll-answer"": ""yes""}",poll,answered <poll-answered> in poll
-152,rated pages with type <page-type>,"{""page-type"": ""'session'""}",rate,rated pages with type 'session'
-106,liked post on <post-word>,"{""post-word"": ""biplane""}",like,liked post on biplane
-378,choose <poll-answer> option in quick poll,"{""poll-answer"": ""'Yes'""}",poll,choose 'Yes' option in quick poll
-478,rated <page-type>,"{""page-type"": ""exhibitor""}",rate,rated exhibitor
-465,<sentiment> feelings towards the event,"{""sentiment"": ""negative""}",profile,negative feelings towards the event
-365,<poll-answer> answers in poll,"{""poll-answer"": ""'Yes'""}",poll,'Yes' answers in poll
-274,used the app <number> times,"{""number"": ""0""}",session,used the app 0 times
-228,liked  <mention>s message,"{""mention"": ""Caleb Ramirez'""}",like,liked  Caleb Ramirez's message
-334,<location> in profile details,"{""location"": ""Samoa""}",profile,Samoa in profile details
-282,opened the app <number> times,"{""number"": ""0""}",session,opened the app 0 times
-147,website named <website>,"{""website"": ""'bandcamp.com'""}",profile,website named 'bandcamp.com'
-479,voted in poll once,{},poll,voted in poll once
-343,voted with <poll-answer> in a poll,"{""poll-answer"": ""'No'""}",poll,voted with 'No' in a poll
-336,commented on  <mention>s post,"{""mention"": ""Kristin Hansen'""}",reply,commented on  Kristin Hansen's post
-101,likes <post-word>s,"{""post-word"": ""biplane""}",like,likes biplanes
-110,the name <first-name>,"{""first-name"": ""Chante""}",profile,the name Chante
-338,from <location>,"{""location"": ""Samoa""}",profile,from Samoa
-63,liked post by <mention>,"{""mention"": ""Caleb Ramirez""}",like,liked post by Caleb Ramirez
-194,a reply to a user named <mention>,"{""mention"": ""Stacy Vaughn""}",reply,a reply to a user named Stacy Vaughn
-4,liked any post <number> or more times,"{""number"": ""9""}",like,liked any post 9 or more times
-249,biologist,{},profile,biologist
-298,rated <number> pages,"{""number"": ""7""}",rate,rated 7 pages
-457,<sentiment> posts,"{""sentiment"": ""positive""}",post,positive posts
-268,commented one of <mention>'s posts,"{""mention"":""estelle jimenez""}",reply,commented one of estelle jimenez's posts
-353,created <number> notes,"{""number"": ""3""}",note,created 3 notes
-475,voted in <number> poll,"{""number"": ""1""}",poll,voted in 1 poll
-376,downloaded file <number> times,"{""number"": ""9""}",file,downloaded file 9 times
+,final,ex,label
+530,clicked on 4 ads,{},ad
+109,Chante as first name,{},profile
+81,left a note on page 9 times,{},note
+206,located in <locatoin>,{},profile
+103,"""big"" in description",{},profile
+52,replied to negative sentiment post,{},reply
+474,voted in poll,{},poll
+30,'captive' in bio,{},profile
+412,composed a positive post,"{""post.sentiment"": ""positive""}",post
+529,attended 7 events,{},event
+302,liked a post that contains 'pragmatic',"{""like.postText"": ""\""pragmatic\""""}",like
+241,bad things to say in a comment ,{},reply
+510,took a not on page with 'coastal',{},note
+169,zero downloads,{},file
+490,viewed page contains 'adsorbable',{},view
+211,'ow.ly' website,{},profile
+393,left a note on speaker's page,{},note
+227,left a reply for the post about 'biplane',{},reply
+438,viewed page with 'beyond',{},view
+200,answered three polls with 'no',{},poll
+185,replied to Stacy Vaughn,{},reply
+195,a phone (344) 842-7718,{},profile
+377,downloaded a file 9 times,{},file
+424,live in Vatican City,{},profile
+399,works at Abercrombie & Fitch,{},profile
+379,viewed page with 'session' type,{},view
+184,"wrote a post with ""rare""","{""post.text"": ""\""rare\""""}",post
+54,wrote at least 4 posts,"{""post.count"": "">=4""}",post
+414,written post with positive sentiment,"{""post.sentiment"": ""positive""}",post
+57,replied to post with 'captive' in it,{},reply
+88,a linkedin account,{},profile
+116,'Chante' as first name,{},profile
+263,viewed a page with big in the content,{},view
+86,viewed a page with word 'adsorbable',{},view
+363,clicked on 'AC Lens' ad,{},ad
+460,wrote post with  positive sentiment,"{""post.sentiment"": ""positive""}",post
+36,Marjories,{},profile
+472,participated in poll once,{},poll
+421,n't like the event,{},profile
+369,voted 'Yes' in poll,{},poll
+482,mentioned Steven Owens,"{""post.mention"": ""Steven Owens""}",post
+327,created a note to page containing 'concussion',{},note
+371,choose 'Yes' in poll,{},poll
+491,a post with 8 likes ,"{""post.likes_count"": ""8""}",post
+2,clicked on ad with 'blackout' in it,{},ad
+125,mentioned 'big',"{""post.mention"": ""guitar""}",post
+271,named vida,{},profile
+508,viewed page with 'adsorbable',{},view
+390,work at Abercrombie & Fitch,{},profile
+337,commented on Kristin Hansen's post,{},reply
+485,converted on the 'Acsis Inc.' ad ,{},profile
+499,wrote 2 posts,"{""post.count"": ""2""}",post
+339,viewed a page with 'speaker' type,{},view
+94,clicked an ad with a word 'big',{},ad
+193,"post containing ""rare"" word","{""post.text"": ""\""rare\""""}",post
+323,Nancie as first name,{},profile
+319,participated in a poll 7 times,{},poll
+157,liked all posts about 'escapist',"{""like.postText"": ""\""escapist\""""}",like
+198,downloaded a file 5 times,{},file
+19,participated in poll answered yes to any question,{},poll
+341,visited a page with type 'speaker',{},view
+467,rated page mentioning 'coastal',{},rate
+428,clicked on ad with 'escapist',{},ad
+178,exactly one attend,{},event
+97,"""big"" in their bio",{},profile
+309,profile details contain the phone number (101) 892-2757,{},profile
+489,named Petra,{},profile
+140,replied to Andy Chandler's post,{},reply
+163,location is 'Greece',{},profile
+181,"a ""biplane"" in their profile description",{},profile
+349,went to 0 events,{},event
+425,reside in Vatican City,{},profile
+113,named Chante,{},profile
+498,enjoyed the event,{},profile
+441,posts with 5 replies,"{""post.repliesCount"": ""5""}",post
+245,rated with 2 stars ,{},rate
+50,participated in no poll,{},poll
+304,liked a post with the word 'pragmatic',"{""like.postText"": ""\""pragmatic\""""}",like
+273,vida,{},profile
+130,replied to post with 'blackout' in it,{},reply
+264,viewed a page with big,{},view
+444,view of page with 'beyond' in its text,{},view
+374,viewed session pages,{},view
+449,liked post written by Clay Arnold,"{""like.postAuthor"": ""Clay Arnold""}",like
+512,voted 4 times,{},poll
+146,either Asylum or Immigration Officer position,{},profile
+112,first name Chante,{},profile
+118,'captive' in the bio,{},profile
+352,visited a page that contains 'biplane',{},view
+466,written post which was liked 2 times,"{""post.sentiment"": ""written"", ""post.likes_count"": ""2""}",post
+437,liked post by Clay Arnold,"{""like.postAuthor"": ""Clay Arnold""}",like
+292,rated a page 7 times,{},rate
+265,wrote post that got 7 comments,"{""post.repliesCount"": ""7""}",post
+391,rated page with 'exhibitor' type,{},rate
+225,commented with 'biplane' to the post ,{},reply
+111,liked the post 9 time,"{""like.count"": ""9""}",like
+340,wrote a post with negative sentiment,"{""post.sentiment"": ""negative""}",post
+368,wrote post with Dorothy Larson's mention,"{""post.mention"": ""Dorothy Larson""}",post
+283,last name equals Rodriguez,{},profile
+257,wrote a positive post,"{""post.sentiment"": ""positive""}",post
+409,post with positive sentiment,"{""post.sentiment"": ""positive""}",post
+31,n't enjoy event,{},profile
+384,9 file downloads,{},file
+270,replying to estelle jimenez's post ,{},reply
+216,replied to post with 'biplane',{},reply
+361,choose 'Yes' answer in poll,{},poll
+285,created a post with negative sentiment,{},poll
+239,wrote a post with 7 comments,"{""post.repliesCount"": ""7""}",post
+497,posted a message with 8 likes,"{""post.likes_count"": ""8""}",post
+280,downloaded  7 files from the app,{},file
+386,viewe sesssion page,{},view
+159,website = 'free.fr',{},profile
+108,liked the post 9 times,"{""like.count"": ""9""}",like
+468,rated page with 'coastal' word,{},rate
+26,got file from 'exhibitor' type page,{},file
+233,wrote a post mentioning Estelle Jimenez ,"{""post.mention"": ""Estelle Jimenez""}",post
+517,content with 9 replies,"{""post.repliesCount"": ""9""}",post
+440,viewed page mentioning 'beyond',{},view
+209,the attendee is located in North Korea,{},profile
+342,added a post with negative sentiment,"{""post.sentiment"": ""negative""}",post
+402,left a note about speaker,{},note
+39,replied to post with negative sentiment,{},reply
+397,note about speaker,{},note
+456,wrote post with positive sentiment,"{""post.sentiment"": ""positive""}",post
+224,liked post written by Caleb Ramirez,"{""like.postAuthor"": ""Caleb Ramirez""}",like
+307,holds the position of Administrative Generalist/Specialist,{},profile
+429,clicks on ads containing 'escapist',{},ad
+275,downloaded 7 files,{},file
+91,a linkedin connection,{},profile
+503,rated speaker with 2 stars,{},rate
+95,are connected with linkedin,{},profile
+22,answered <poll-answered> in poll,{},poll
+152,rated pages with type 'session',{},rate
+106,liked post on biplane,"{""like.postText"": ""biplane""}",like
+378,choose 'Yes' option in quick poll,{},poll
+478,rated exhibitor,{},rate
+465,negative feelings towards the event,{},profile
+365,'Yes' answers in poll,{},poll
+274,used the app 0 times,{},session
+228,liked  Caleb Ramirez's message,"{""like.postAuthor"": ""Caleb Ramirez""}",like
+334,Samoa in profile details,{},profile
+282,opened the app 0 times,{},session
+147,website named 'bandcamp.com',{},profile
+479,voted in poll once,{},poll
+343,voted with 'No' in a poll,{},poll
+336,commented on  Kristin Hansen's post,{},reply
+101,likes biplanes,"{""like.postText"": ""biplanes""}",like
+110,the name Chante,{},profile
+338,from Samoa,{},profile
+63,liked post by Caleb Ramirez,"{""like.postAuthor"": ""Caleb Ramirez""}",like
+194,a reply to a user named Stacy Vaughn,{},reply
+4,liked any post 9 or more times,"{""like.count"": "">=9""}",like
+249,biologist,{},profile
+298,rated 7 pages,{},rate
+457,positive posts,"{""post.sentiment"": ""positive""}",post
+268,commented one of estelle jimenez's posts,{},reply
+353,created 3 notes,{},note
+475,voted in 1 poll,{},poll
+376,downloaded file 9 times,{},file

@@ -31,6 +31,10 @@ tqdm = "*"
 tokenize-uk = "*"
 gensim = "*"
 python-rocksdb = "*"
+sklearn-crfsuite = "*"
+python-crfsuite = "*"
+flask = "*"
+jupyterthemes = "*"
 
 
 [requires]
