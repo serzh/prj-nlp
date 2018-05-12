@@ -29,7 +29,7 @@
 13,liked it <number> times,"{""number"": ""9""}",like,{},liked it 9 times
 299,clicked an ad <number> time,"{""number"": ""1""}",ad,{},clicked an ad 1 time
 32,downloaed a file from <page-type> page,"{""page-type"": ""exhibitor""}",file,{},downloaed a file from exhibitor page
-25,in poll answered <poll-answered>,"{""poll-answer"": ""yes""}",poll,{},in poll answered <poll-answered>
+25,in poll answered <poll-answer>,"{""poll-answer"": ""yes""}",poll,{},in poll answered yes
 18,rated any page <number> times,"{""number"": ""four""}",rate,{},rated any page four times
 346,attended <number> events,"{""number"": ""0""}",event,{},attended 0 events
 501,clicked on <number> ads,"{""number"": ""2""}",ad,{},clicked on 2 ads
@@ -103,7 +103,7 @@
 513,Google + account,{},profile,{},Google + account
 326,added a note to page with the word <post-word>,"{""post-word"": ""'concussion'""}",note,{},added a note to page with the word 'concussion'
 300,<position> in the position field,"{""position"": ""Administrative Generalist/Specialist""}",profile,{},Administrative Generalist/Specialist in the position field
-514,post with <number> replies,"{""number"": ""9""}",reply,{},post with 9 replies
+514,post with <number> replies,"{""number"": ""9""}",post,{},post with 9 replies
 192,"post has ""<post-word>""","{""post-word"": ""rare""}",post,{},"post has ""rare"""
 66,downloaded a file from page with <page-type> type,"{""page-type"": ""'sponsor'""}",file,{},downloaded a file from page with 'sponsor' type
 317,saved a note for a page that contains <post-word>,"{""post-word"": ""'concussion'""}",note,{},saved a note for a page that contains 'concussion'
@@ -262,7 +262,7 @@
 7,at least <number> likes,"{""number"": ""nine""}",like,{},at least nine likes
 250,a post that was liked <number> times,"{""number"": ""7""}",post,"{""post.likes_count"": ""7""}",a post that was liked 7 times
 67,last name <last-name>,"{""last-name"": ""White""}",profile,{},last name White
-96,left commented about <post-word>,"{""post-word"": ""'convulsion'""}",reply,{},left commented about 'convulsion'
+96,left comment about <post-word>,"{""post-word"": ""'convulsion'""}",reply,{},left comment about 'convulsion'
 190,reply to <mention>,"{""mention"": ""Stacy Vaughn""}",reply,{},reply to Stacy Vaughn
 458,work at <position> position,"{""position"": ""Affordable Housing Specialist""}",profile,{},work at Affordable Housing Specialist position
 418,replied to post with <post-word>,"{""post-word"": ""'concussion'""}",reply,{},replied to post with 'concussion'

@@ -1,10 +1,10 @@
-,final,ex,label
+,orig_final,ex,label
 530,clicked on 4 ads,{},ad
 109,Chante as first name,{},profile
 81,left a note on page 9 times,{},note
 206,located in <locatoin>,{},profile
 103,"""big"" in description",{},profile
-52,replied to negative sentiment post,{},reply
+52,replied to negative sentiment post,"{""reply.postSentiment"": ""negative""}",reply
 474,voted in poll,{},poll
 30,'captive' in bio,{},profile
 412,composed a positive post,"{""post.sentiment"": ""positive""}",post
@@ -16,10 +16,10 @@
 490,viewed page contains 'adsorbable',{},view
 211,'ow.ly' website,{},profile
 393,left a note on speaker's page,{},note
-227,left a reply for the post about 'biplane',{},reply
+227,left a reply for the post about 'biplane',"{""reply.postText"": ""\""biplane\""""}",reply
 438,viewed page with 'beyond',{},view
 200,answered three polls with 'no',{},poll
-185,replied to Stacy Vaughn,{},reply
+185,replied to Stacy Vaughn,"{""reply.postAuthor"": ""Stacy Vaughn""}",reply
 195,a phone (344) 842-7718,{},profile
 377,downloaded a file 9 times,{},file
 424,live in Vatican City,{},profile
@@ -28,7 +28,7 @@
 184,"wrote a post with ""rare""","{""post.text"": ""\""rare\""""}",post
 54,wrote at least 4 posts,"{""post.count"": "">=4""}",post
 414,written post with positive sentiment,"{""post.sentiment"": ""positive""}",post
-57,replied to post with 'captive' in it,{},reply
+57,replied to post with 'captive' in it,"{""reply.postText"": ""\""captive\""""}",reply
 88,a linkedin account,{},profile
 116,'Chante' as first name,{},profile
 263,viewed a page with big in the content,{},view
@@ -48,7 +48,7 @@
 271,named vida,{},profile
 508,viewed page with 'adsorbable',{},view
 390,work at Abercrombie & Fitch,{},profile
-337,commented on Kristin Hansen's post,{},reply
+337,commented on Kristin Hansen's post,"{""reply.postAuthor"": ""Kristin Hansen""}",reply
 485,converted on the 'Acsis Inc.' ad ,{},profile
 499,wrote 2 posts,"{""post.count"": ""2""}",post
 339,viewed a page with 'speaker' type,{},view
@@ -66,7 +66,7 @@
 97,"""big"" in their bio",{},profile
 309,profile details contain the phone number (101) 892-2757,{},profile
 489,named Petra,{},profile
-140,replied to Andy Chandler's post,{},reply
+140,replied to Andy Chandler's post,"{""reply.postAuthor"": ""Andy Chandler""}",reply
 163,location is 'Greece',{},profile
 181,"a ""biplane"" in their profile description",{},profile
 349,went to 0 events,{},event
@@ -78,7 +78,7 @@
 50,participated in no poll,{},poll
 304,liked a post with the word 'pragmatic',"{""like.postText"": ""\""pragmatic\""""}",like
 273,vida,{},profile
-130,replied to post with 'blackout' in it,{},reply
+130,replied to post with 'blackout' in it,"{""reply.postText"": ""\""blackout\""""}",reply
 264,viewed a page with big,{},view
 444,view of page with 'beyond' in its text,{},view
 374,viewed session pages,{},view
@@ -93,7 +93,7 @@
 292,rated a page 7 times,{},rate
 265,wrote post that got 7 comments,"{""post.repliesCount"": ""7""}",post
 391,rated page with 'exhibitor' type,{},rate
-225,commented with 'biplane' to the post ,{},reply
+225,commented with 'biplane' to the post ,"{""reply.text"": ""\""biplane\""""}",reply
 111,liked the post 9 time,"{""like.count"": ""9""}",like
 340,wrote a post with negative sentiment,"{""post.sentiment"": ""negative""}",post
 368,wrote post with Dorothy Larson's mention,"{""post.mention"": ""Dorothy Larson""}",post
@@ -102,8 +102,8 @@
 409,post with positive sentiment,"{""post.sentiment"": ""positive""}",post
 31,n't enjoy event,{},profile
 384,9 file downloads,{},file
-270,replying to estelle jimenez's post ,{},reply
-216,replied to post with 'biplane',{},reply
+270,replying to estelle jimenez's post ,"{""reply.postAuthor"": ""estelle jimenez""}",reply
+216,replied to post with 'biplane',"{""reply.postText"": ""\""biplane\""""}",reply
 361,choose 'Yes' answer in poll,{},poll
 285,created a post with negative sentiment,{},poll
 239,wrote a post with 7 comments,"{""post.repliesCount"": ""7""}",post
@@ -120,7 +120,7 @@
 209,the attendee is located in North Korea,{},profile
 342,added a post with negative sentiment,"{""post.sentiment"": ""negative""}",post
 402,left a note about speaker,{},note
-39,replied to post with negative sentiment,{},reply
+39,replied to post with negative sentiment,"{""reply.postSentiment"": ""negative""}",reply
 397,note about speaker,{},note
 456,wrote post with positive sentiment,"{""post.sentiment"": ""positive""}",post
 224,liked post written by Caleb Ramirez,"{""like.postAuthor"": ""Caleb Ramirez""}",like
@@ -144,7 +144,7 @@
 147,website named 'bandcamp.com',{},profile
 479,voted in poll once,{},poll
 343,voted with 'No' in a poll,{},poll
-336,commented on  Kristin Hansen's post,{},reply
+336,commented on  Kristin Hansen's post,"{""reply.postAuthor"": ""Kristin Hansen""}",reply
 101,likes biplanes,"{""like.postText"": ""biplanes""}",like
 110,the name Chante,{},profile
 338,from Samoa,{},profile
@@ -154,7 +154,7 @@
 249,biologist,{},profile
 298,rated 7 pages,{},rate
 457,positive posts,"{""post.sentiment"": ""positive""}",post
-268,commented one of estelle jimenez's posts,{},reply
+268,commented one of estelle jimenez's posts,"{""reply.postAuthor"": ""estelle jimenez""}",reply
 353,created 3 notes,{},note
 475,voted in 1 poll,{},poll
 376,downloaded file 9 times,{},file
