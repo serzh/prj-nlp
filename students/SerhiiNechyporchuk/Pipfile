@@ -35,6 +35,8 @@ sklearn-crfsuite = "*"
 python-crfsuite = "*"
 flask = "*"
 jupyterthemes = "*"
+"pymorphy2-dicts-uk" = "*"
+"07bb735" = {path = "/Users/serhiinechyporhuk/courses/pymorphy2"}
 
 
 [requires]
