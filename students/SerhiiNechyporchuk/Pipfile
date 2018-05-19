@@ -37,6 +37,7 @@ flask = "*"
 jupyterthemes = "*"
 "pymorphy2-dicts-uk" = "*"
 "07bb735" = {path = "/Users/serhiinechyporhuk/courses/pymorphy2"}
+keras = "*"
 
 
 [requires]
